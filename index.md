@@ -71,7 +71,7 @@ page_sections:
     create new sites and make them fully customizable.
 - template: full-width-media-element
   block: media-1
-  image: "/uploads/2018/06/21/theme.png"
+  image: http://res.cloudinary.com/artist-project-group/v1616347223/apg1/theme_ginob4.png
   caption: All Available Blocks
   slug: blocks
 - template: detail-content
