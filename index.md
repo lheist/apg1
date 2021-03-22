@@ -24,7 +24,7 @@ page_sections:
   block: media-1
   image: https://res.cloudinary.com/artist-project-group/v1616345794/apg1/firewatch_2_jzctfk.jpg
   caption: 'This is an image that Lukas added. Looks like this works pretty well. '
-  slug: ''
+  slug: lukas image
 - template: hero-banner-w-image
   block: hero-2
   slug: features
