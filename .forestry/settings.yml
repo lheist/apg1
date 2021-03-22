@@ -22,7 +22,7 @@ sections:
   path: _config.yml
   label: Config
 upload_dir: apg1
-public_path: https://res.cloudinary.com/artist-project-group
+public_path: http://res.cloudinary.com/artist-project-group
 front_matter_path: ''
 use_front_matter_path: 
 file_template: ":filename:"
