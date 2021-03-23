@@ -98,7 +98,8 @@ page_sections:
   content: ''
 - template: simple-footer
   block: footer-1
-  content: <a href="/impressum.md" title=""><strong>Impressum</strong></a>
+  content: <strong>About · </strong><a href="/impressum.html" title="Impressum"><strong>Impressum</strong></a><strong>
+    · Privacy</strong>
 menu:
   main:
     weight: 2
