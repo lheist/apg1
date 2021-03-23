@@ -52,14 +52,14 @@ page_sections:
 - template: content-feature
   block: feature-1
   media_alignment: Left
-  slug: swap
-  headline: <strong>Swap &amp; Switch<span class="light">&nbsp;</span></strong><span
-    class="light">the Blocks to create sites quickly</span>
+  slug: supergood2
+  headline: <strong>Supergood<span class="light"> </span></strong><span class="light">is
+    pure tropical existentialism!</span>
   content: Quickly assemble and create custom sites with 16 design blocks for seven
     different sections.
   media:
-    image: http://res.cloudinary.com/artist-project-group/v1616347223/apg1/blocks-split_tfnnoz.png
-    alt_text: uBuild Blocks Mock-Up
+    image: http://res.cloudinary.com/artist-project-group/v1616501788/apg1/Supergood_Logo_Lila_RGB_mxexsc.svg
+    alt_text: Supergood Logo Lila
 - template: content-feature
   block: feature-1
   media_alignment: Right
@@ -98,7 +98,7 @@ page_sections:
   content: ''
 - template: simple-footer
   block: footer-1
-  content: <a href="/impressum.md" title="">Impressum</a>
+  content: <a href="/impressum.md" title=""><strong>Impressum</strong></a>
 menu:
   main:
     weight: 2
