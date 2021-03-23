@@ -11,8 +11,8 @@ page_sections:
     link_text: "#APG"
   - link: "#supergood"
     link_text: "#Supergood"
-  - link: "#responsive"
-    link_text: Responsive
+  - link: "#aaaa"
+    link_text: "#AAAA"
   - link: "#blocks"
     link_text: Blocks
   cta:
