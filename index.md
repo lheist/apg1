@@ -7,16 +7,16 @@ page_sections:
   block: header-2
   logo: http://res.cloudinary.com/artist-project-group/v1616507021/apg1/Artboard_1_1000x250_ibvkui.png
   navigation:
-  - link: "#socialglitch"
-    link_text: "#Social Glitch"
+  - link: "#aps"
+    link_text: "#Artist Partner Service"
   - link: "#apg"
     link_text: "#APG"
   - link: "#supergood"
     link_text: "#Supergood"
   - link: "#aaaa"
     link_text: "#AAAA"
-  - link: "#blocks"
-    link_text: Blocks
+  - link: "#socialglitch"
+    link_text: "#Social Glitch"
   cta:
     url: mailto:"info@artistprojectgroup.com"
     button_text: Contact us now!
