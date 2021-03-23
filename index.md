@@ -91,16 +91,6 @@ page_sections:
   block: cta-bar
   email_recipient: info@artistprojectgroup.com
   content: ''
-- template: simple-footer
-  block: footer-1
-  content: <strong>About · </strong><a href="/impressum.html" title="Impressum"><strong>Impressum</strong></a><strong>
-    · Privacy</strong>
-- template: 4-column-footer
-  block: footer-2
-  col_2: About
-  col_3: <a href="Impressum" title="">Impressum</a>
-  col_4: Privacy
-  image: http://res.cloudinary.com/artist-project-group/v1616503451/apg1/APG_Logo_Dev_V11_3A_RGB_web_oncyhg.svg
 - template: 3-column-text
   block: three-column-1
   col_1:
@@ -115,6 +105,16 @@ page_sections:
     content: <a href="privacy.html" title="Privacy">Privacy</a>
     headline: ''
     slug: ''
+- template: simple-footer
+  block: footer-1
+  content: <strong>About · </strong><a href="/impressum.html" title="Impressum"><strong>Impressum</strong></a><strong>
+    · Privacy</strong>
+- template: 4-column-footer
+  block: footer-2
+  col_2: About
+  col_3: <a href="Impressum" title="">Impressum</a>
+  col_4: Privacy
+  image: http://res.cloudinary.com/artist-project-group/v1616503451/apg1/APG_Logo_Dev_V11_3A_RGB_web_oncyhg.svg
 menu:
   main:
     weight: 2
