@@ -20,6 +20,9 @@ page_sections:
   cta:
     url: https://app.forestry.io/quick-start?repo=forestryio/ubuild-jekyll&provider=github&engine=jekyll
     button_text: Import
+- template: simple-header
+  block: header-3
+  logo: http://res.cloudinary.com/artist-project-group/v1616494694/apg1/APG_Logo_Dev_V11_3A_RGB_fj6dze.svg
 - template: navigation-header-w-button
   block: header-2
   logo: http://res.cloudinary.com/artist-project-group/v1616494694/apg1/APG_Logo_Dev_V11_3A_RGB_fj6dze.svg
