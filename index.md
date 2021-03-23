@@ -7,6 +7,8 @@ page_sections:
   block: header-2
   logo: http://res.cloudinary.com/artist-project-group/v1616507021/apg1/Artboard_1_1000x250_ibvkui.png
   navigation:
+  - link: "#about"
+    link_text: "#About"
   - link: "#aps"
     link_text: "#Artist Partner Service"
   - link: "#apg"
