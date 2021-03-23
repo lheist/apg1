@@ -7,18 +7,14 @@ page_sections:
   block: header-2
   logo: http://res.cloudinary.com/artist-project-group/v1616507021/apg1/Artboard_1_1000x250_ibvkui.png
   navigation:
-  - link: "#about"
-    link_text: "#About"
   - link: "#aps"
     link_text: "#Artist Partner Service"
-  - link: "#apg"
-    link_text: "#APG"
   - link: "#supergood"
     link_text: "#Supergood"
   - link: "#aaaa"
     link_text: "#AAAA"
-  - link: "#socialglitch"
-    link_text: "#Social Glitch"
+  - link: "#about"
+    link_text: "#About"
   cta:
     url: mailto:"info@artistprojectgroup.com"
     button_text: Contact us now!
@@ -82,14 +78,6 @@ page_sections:
     Project Group<br>Verein für Kritik und Produktion<br>ZVR-Number: 253007094<br><a
     href="mailto:info@artistprojectgroup.com" title="mail info">info@artistprojectgroup.com</a><br>Wien,
     Österreich<br>© 2021 Artist Project Group'
-- template: detail-content
-  block: text-1
-  headline: Steps to Build a Site!
-  content: <p>uBuild is an open-source Jekyll based demo that doubles as a builder
-    tool inside the Forestry content manager.</p><ol><li><p><a href="https://app.forestry.io/quick-start?repo=forestryio/ubuild-jekyll&provider=github&engine=jekyll">Import
-    this demo in Forestry</a>.</p></li><li><p>Read <a href="https://forestry.io/blog/ubuild-a-new-theme-for-static-sites-using-blocks/">our
-    article</a> and create your own Blocks.</p></li><li><p>Add and customize the available
-    Blocks and preview them as you go along.</p></li></ol>
 - template: signup-bar
   block: cta-bar
   email_recipient: info@artistprojectgroup.com
