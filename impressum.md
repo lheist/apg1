@@ -27,6 +27,6 @@ page_sections:
   col_3:
     headline: ''
     slug: ''
-    content: ''
+    content: <a href="privacy.html" title="Privacy">Privacy</a>
 
 ---
