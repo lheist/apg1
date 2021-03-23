@@ -25,7 +25,7 @@ page_sections:
   logo: http://res.cloudinary.com/artist-project-group/v1616494694/apg1/APG_Logo_Dev_V11_3A_RGB_fj6dze.svg
   navigation:
   - link_text: SWAAAAAPPPP!
-    link: "+swap"
+    link: "#swap"
   cta:
     url: ''
     button_text: ''
