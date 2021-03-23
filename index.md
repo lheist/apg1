@@ -105,7 +105,7 @@ page_sections:
   col_2: About
   col_3: <a href="Impressum" title="">Impressum</a>
   col_4: Privacy
-  image: ''
+  image: http://res.cloudinary.com/artist-project-group/v1616503451/apg1/APG_Logo_Dev_V11_3A_RGB_web_oncyhg.svg
 menu:
   main:
     weight: 2
