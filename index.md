@@ -93,6 +93,11 @@ page_sections:
 - template: simple-footer
   block: footer-1
   content: Made with ❤︎ in Canada
+- template: full-width-media-element
+  block: media-1
+  image: http://res.cloudinary.com/artist-project-group/v1616502770/apg1/AAAA_Logo_eca54i.svg
+  caption: What Tel Aviv inspires us to do!
+  slug: "#aaaa"
 menu:
   main:
     weight: 2
