@@ -27,7 +27,7 @@ page_sections:
   slug: lukas image
 - template: simple-header
   block: header-3
-  logo: http://res.cloudinary.com/artist-project-group/v1616505761/apg1/TEST_1000x250_wbfpw5.svg
+  logo: http://res.cloudinary.com/artist-project-group/v1616505870/apg1/TEST_1000x250_rd8wrb.png
 - template: full-width-media-element
   block: media-1
   image: http://res.cloudinary.com/artist-project-group/v1616503049/apg1/AAAA_Logo_web_bqkivv.svg
