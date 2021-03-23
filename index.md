@@ -23,18 +23,6 @@ page_sections:
   image: http://res.cloudinary.com/artist-project-group/v1616503451/apg1/APG_Logo_Dev_V11_3A_RGB_web_oncyhg.svg
   caption: 'This is an image that Lukas added. Looks like this works pretty well. '
   slug: lukas image
-- template: hero-banner-w-image
-  block: hero-2
-  image:
-    image: http://res.cloudinary.com/artist-project-group/v1616503049/apg1/AAAA_Logo_web_bqkivv.svg
-    alt_text: ''
-  background_image: ''
-  headline: "<strong>WHAT IS</strong> happening here?"
-  content: ''
-  cta:
-    enabled: false
-    url: ''
-    button_text: ''
 - template: full-width-media-element
   block: media-1
   image: http://res.cloudinary.com/artist-project-group/v1616503049/apg1/AAAA_Logo_web_bqkivv.svg
