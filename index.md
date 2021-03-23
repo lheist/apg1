@@ -5,7 +5,7 @@ date: 2021-03-23 00:00:00 +0100
 page_sections:
 - template: navigation-header
   block: header-1
-  logo: ''
+  logo: http://res.cloudinary.com/artist-project-group/v1616345794/apg1/firewatch_3_avcpvp.jpg
   navigation:
   - link: "#aaaa"
     link_text: "#AAAA"
