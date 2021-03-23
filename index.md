@@ -25,7 +25,7 @@ page_sections:
   logo: http://res.cloudinary.com/artist-project-group/v1616494694/apg1/APG_Logo_Dev_V11_3A_RGB_fj6dze.svg
 - template: full-width-media-element
   block: media-1
-  image: http://res.cloudinary.com/artist-project-group/v1616494694/apg1/APG_Logo_Dev_V11_3A_RGB_fj6dze.svg
+  image: http://res.cloudinary.com/artist-project-group/v1616503451/apg1/APG_Logo_Dev_V11_3A_RGB_web_oncyhg.svg
   caption: 'This is an image that Lukas added. Looks like this works pretty well. '
   slug: lukas image
 - template: full-width-media-element
