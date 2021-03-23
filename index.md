@@ -30,6 +30,11 @@ page_sections:
   slug: lukas image
 - template: full-width-media-element
   block: media-1
+  image: http://res.cloudinary.com/artist-project-group/v1616503049/apg1/AAAA_Logo_web_bqkivv.svg
+  caption: What Tel Aviv inspires us to do!
+  slug: "#aaaa"
+- template: full-width-media-element
+  block: media-1
   image: http://res.cloudinary.com/artist-project-group/v1616501788/apg1/Supergood_Logo_Lila_RGB_mxexsc.svg
   caption: Really wow, how supergood this logo still is
   slug: "#supergood"
@@ -93,11 +98,6 @@ page_sections:
 - template: simple-footer
   block: footer-1
   content: Made with ❤︎ in Canada
-- template: full-width-media-element
-  block: media-1
-  image: http://res.cloudinary.com/artist-project-group/v1616502770/apg1/AAAA_Logo_eca54i.svg
-  caption: What Tel Aviv inspires us to do!
-  slug: "#aaaa"
 menu:
   main:
     weight: 2
