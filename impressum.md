@@ -28,5 +28,11 @@ page_sections:
     headline: ''
     slug: ''
     content: <a href="privacy.html" title="Privacy">Privacy</a>
+- template: 4-column-footer
+  block: footer-2
+  col_2: sdfsdaf
+  col_3: asdfasf
+  col_4: adsfasdf
+  image: http://res.cloudinary.com/artist-project-group/v1616507021/apg1/Artboard_1_1000x250_ibvkui.png
 
 ---
