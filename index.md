@@ -18,7 +18,7 @@ page_sections:
   - link: "#blocks"
     link_text: Blocks
   cta:
-    url: mailto:info@artistprojectgroup.com
+    url: mailto:"info@artistprojectgroup.com"
     button_text: Contact us now!
 - template: simple-header
   block: header-3
