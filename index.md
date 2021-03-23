@@ -7,10 +7,8 @@ page_sections:
   block: header-2
   logo: http://res.cloudinary.com/artist-project-group/v1616347223/apg1/forestry-full_aepz1y.svg
   navigation:
-  - link: "/"
-    link_text: Ubuild
-  - link: "#swap"
-    link_text: Swap
+  - link: "#apg"
+    link_text: "#APG"
   - link: "#customize"
     link_text: Customize
   - link: "#responsive"
