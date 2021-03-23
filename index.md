@@ -73,12 +73,10 @@ page_sections:
     alt_text: Customize Blocks
 - template: 1-column-text
   block: one-column-1
-  slug: responsive
-  headline: 16 Fully Responsive Design Blocks
-  content: |
-    The Design Blocks can be used without Forestry but to harness the power
-    of Blocks we recommend using <a href="https://forestry.io">Forestry</a>. Once the site is imported you can immediately
-    create new sites and make them fully customizable.
+  slug: about
+  headline: About
+  content: 'Artist Project Group is not a brewery nor a second hand clothing store.
+    We sometimes work in museums and theatres. <br>We are based in Vienna, Austria. '
 - template: detail-content
   block: text-1
   headline: Steps to Build a Site!
@@ -91,30 +89,6 @@ page_sections:
   block: cta-bar
   email_recipient: info@artistprojectgroup.com
   content: ''
-- template: 3-column-text
-  block: three-column-1
-  col_1:
-    headline: ''
-    content: <a href="about.html" title="About">About</a>
-    slug: ''
-  col_2:
-    content: <a href="impressum.html" title="Impressum">Impressum</a>
-    headline: ''
-    slug: ''
-  col_3:
-    content: <a href="privacy.html" title="Privacy">Privacy</a>
-    headline: ''
-    slug: ''
-- template: simple-footer
-  block: footer-1
-  content: <strong>About · </strong><a href="/impressum.html" title="Impressum"><strong>Impressum</strong></a><strong>
-    · Privacy</strong>
-- template: 4-column-footer
-  block: footer-2
-  col_2: About
-  col_3: <a href="Impressum" title="">Impressum</a>
-  col_4: Privacy
-  image: http://res.cloudinary.com/artist-project-group/v1616503451/apg1/APG_Logo_Dev_V11_3A_RGB_web_oncyhg.svg
 menu:
   main:
     weight: 2
