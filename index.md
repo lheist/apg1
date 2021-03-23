@@ -5,7 +5,7 @@ date: 2017-11-22T23:00:00.000+00:00
 page_sections:
 - template: navigation-header-w-button
   block: header-2
-  logo: http://res.cloudinary.com/artist-project-group/v1616347223/apg1/forestry-full_aepz1y.svg
+  logo: http://res.cloudinary.com/artist-project-group/v1616494694/apg1/APG_Logo_Dev_V11_3A_RGB_fj6dze.svg
   navigation:
   - link: "/"
     link_text: Ubuild
