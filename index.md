@@ -100,6 +100,12 @@ page_sections:
   block: footer-1
   content: <strong>About · </strong><a href="/impressum.html" title="Impressum"><strong>Impressum</strong></a><strong>
     · Privacy</strong>
+- template: 4-column-footer
+  block: footer-2
+  col_2: About
+  col_3: <a href="Impressum" title="">Impressum</a>
+  col_4: Privacy
+  image: ''
 menu:
   main:
     weight: 2
