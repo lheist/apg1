@@ -51,7 +51,7 @@ page_sections:
   image:
     image: http://res.cloudinary.com/artist-project-group/v1616347223/apg1/product-shot-1_xnhtta.png
     alt_text: Product Shot
-  background_image: http://res.cloudinary.com/artist-project-group/v1616347223/apg1/product-shot-1_xnhtta.png
+  background_image: ''
 - template: content-feature
   block: feature-1
   media_alignment: Left
