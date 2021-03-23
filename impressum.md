@@ -10,9 +10,9 @@ page_sections:
 - template: 1-column-text
   block: one-column-1
   headline: IMPRESSUM
-  content: <strong>Artist Project Group</strong><br>Verein für Kritik und Produktion<br><a
-    href="mailto:info@artistprojectgroup.com" title="mail info">info@artistprojectgroup.com</a><br>Wien,
-    Österreich
+  content: '<strong>Artist Project Group</strong><br>Verein für Kritik und Produktion<br><br>ZVR-Number:
+    253007094<br><a href="mailto:info@artistprojectgroup.com" title="mail info">info@artistprojectgroup.com</a><br>Wien,
+    Österreich<br><br>© 2021 Artist Project Group'
   slug: ''
 
 ---
