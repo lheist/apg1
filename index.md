@@ -9,8 +9,8 @@ page_sections:
   navigation:
   - link: "#apg"
     link_text: "#APG"
-  - link: "#customize"
-    link_text: Customize
+  - link: "#supergood"
+    link_text: "#Supergood"
   - link: "#responsive"
     link_text: Responsive
   - link: "#blocks"
