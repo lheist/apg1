@@ -3,12 +3,6 @@ layout: blocks
 title: APG
 date: 2021-03-23 00:00:00 +0100
 page_sections:
-- template: navigation-header
-  block: header-1
-  logo: http://res.cloudinary.com/artist-project-group/v1616345794/apg1/firewatch_3_avcpvp.jpg
-  navigation:
-  - link: "#aaaa"
-    link_text: "#AAAA"
 - template: navigation-header-w-button
   block: header-2
   logo: http://res.cloudinary.com/artist-project-group/v1616507021/apg1/Artboard_1_1000x250_ibvkui.png
@@ -98,9 +92,13 @@ page_sections:
     this demo in Forestry</a>.</p></li><li><p>Read <a href="https://forestry.io/blog/ubuild-a-new-theme-for-static-sites-using-blocks/">our
     article</a> and create your own Blocks.</p></li><li><p>Add and customize the available
     Blocks and preview them as you go along.</p></li></ol>
+- template: signup-bar
+  block: cta-bar
+  email_recipient: info@artistprojectgroup.com
+  content: ''
 - template: simple-footer
   block: footer-1
-  content: <a href="" title="">Impressum</a>
+  content: <a href="/impressum.md" title="">Impressum</a>
 menu:
   main:
     weight: 2
