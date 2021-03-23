@@ -33,20 +33,6 @@ page_sections:
   image: http://res.cloudinary.com/artist-project-group/v1616501788/apg1/Supergood_Logo_Lila_RGB_mxexsc.svg
   caption: Really wow, how supergood this logo still is
   slug: "#supergood"
-- template: hero-banner-w-image
-  block: hero-2
-  slug: features
-  headline: uBuild <br><strong>design blocks</strong>
-  content: The tool that allows you to build beautiful sites<br>all inside Forestry's
-    content manager.
-  cta:
-    enabled: true
-    url: http://supergood.today
-    button_text: Supergood Webshop
-  image:
-    image: http://res.cloudinary.com/artist-project-group/v1616501788/apg1/Supergood_Logo_Lila_RGB_mxexsc.svg
-    alt_text: Product Shot
-  background_image: ''
 - template: content-feature
   block: feature-1
   media_alignment: Left
@@ -58,17 +44,6 @@ page_sections:
   media:
     image: http://res.cloudinary.com/artist-project-group/v1616501788/apg1/Supergood_Logo_Lila_RGB_mxexsc.svg
     alt_text: Supergood Logo Lila
-- template: content-feature
-  block: feature-1
-  media_alignment: Right
-  slug: customize
-  headline: <strong>Customize Blocks</strong><span class="light">&nbsp;to make quick
-    edits throughout your new site</span>
-  content: Each block comes with custom Front Matter that can be edited in Forestry
-    CMS.
-  media:
-    image: http://res.cloudinary.com/artist-project-group/v1616347223/apg1/edit_dxry25.gif
-    alt_text: Customize Blocks
 - template: 1-column-text
   block: one-column-1
   slug: about
