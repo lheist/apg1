@@ -23,7 +23,7 @@ page_sections:
   col_2:
     headline: ''
     slug: ''
-    content: ''
+    content: <a href="impressum.html" title="Impressum">Impressum</a>
   col_3:
     headline: ''
     slug: ''
