@@ -48,7 +48,7 @@ page_sections:
   image:
     image: http://res.cloudinary.com/artist-project-group/v1616347223/apg1/product-shot-1_xnhtta.png
     alt_text: Product Shot
-  background_image: ''
+  background_image: http://res.cloudinary.com/artist-project-group/v1616501788/apg1/Supergood_Logo_Lila_RGB_mxexsc.svg
 - template: content-feature
   block: feature-1
   media_alignment: Left
