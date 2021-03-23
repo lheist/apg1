@@ -8,7 +8,7 @@ page_sections:
   logo: http://res.cloudinary.com/artist-project-group/v1616506002/apg1/APG_Logo_Dev_V11_3A_RGB_700x_wgh1ef.png
 - template: navigation-header-w-button
   block: header-2
-  logo: http://res.cloudinary.com/artist-project-group/v1616347223/apg1/forestry-full_aepz1y.svg
+  logo: http://res.cloudinary.com/artist-project-group/v1616503451/apg1/APG_Logo_Dev_V11_3A_RGB_web_oncyhg.svg
   navigation:
   - link: "#socialglitch"
     link_text: "#Social Glitch"
