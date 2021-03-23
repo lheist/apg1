@@ -78,7 +78,10 @@ page_sections:
   slug: about
   headline: About
   content: 'Artist Project Group is not a brewery nor a second hand clothing store.
-    We sometimes work in museums and theatres. <br>We are based in Vienna, Austria. '
+    We sometimes work in museums and theatres. <br>We are based in Vienna, Austria.<br><br><strong>Impressum</strong><br>Artist
+    Project Group<br>Verein für Kritik und Produktion<br>ZVR-Number: 253007094<br><a
+    href="mailto:info@artistprojectgroup.com" title="mail info">info@artistprojectgroup.com</a><br>Wien,
+    Österreich<br>© 2021 Artist Project Group'
 - template: detail-content
   block: text-1
   headline: Steps to Build a Site!
