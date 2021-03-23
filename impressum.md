@@ -9,6 +9,5 @@ page_sections:
   content: Artist Project Group<br>Verein für Produktion und Kritik<br><a href="mailto:info@artistprojectgroup.com"
     title="mail info">info@artistprojectgroup.com</a><br>Wien, Österreich
   slug: ''
-published: false
 
 ---
