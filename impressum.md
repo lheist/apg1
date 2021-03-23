@@ -14,5 +14,19 @@ page_sections:
     253007094<br><a href="mailto:info@artistprojectgroup.com" title="mail info">info@artistprojectgroup.com</a><br>Wien,
     Österreich<br><br>© 2021 Artist Project Group'
   slug: ''
+- template: 3-column-text
+  block: three-column-1
+  col_1:
+    content: <a href="about.html" title="About">About</a>
+    headline: ''
+    slug: ''
+  col_2:
+    headline: ''
+    slug: ''
+    content: ''
+  col_3:
+    headline: ''
+    slug: ''
+    content: ''
 
 ---
