@@ -3,6 +3,9 @@ layout: blocks
 title: APG
 date: 2021-03-23 00:00:00 +0100
 page_sections:
+- template: simple-header
+  block: header-3
+  logo: http://res.cloudinary.com/artist-project-group/v1616506002/apg1/APG_Logo_Dev_V11_3A_RGB_700x_wgh1ef.png
 - template: navigation-header-w-button
   block: header-2
   logo: http://res.cloudinary.com/artist-project-group/v1616347223/apg1/forestry-full_aepz1y.svg
@@ -25,9 +28,6 @@ page_sections:
   image: http://res.cloudinary.com/artist-project-group/v1616503451/apg1/APG_Logo_Dev_V11_3A_RGB_web_oncyhg.svg
   caption: 'This is an image that Lukas added. Looks like this works pretty well. '
   slug: lukas image
-- template: simple-header
-  block: header-3
-  logo: http://res.cloudinary.com/artist-project-group/v1616505870/apg1/TEST_1000x250_rd8wrb.png
 - template: full-width-media-element
   block: media-1
   image: http://res.cloudinary.com/artist-project-group/v1616503049/apg1/AAAA_Logo_web_bqkivv.svg
