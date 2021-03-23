@@ -14,14 +14,5 @@ page_sections:
     href="mailto:info@artistprojectgroup.com" title="mail info">info@artistprojectgroup.com</a><br>Wien,
     Österreich
   slug: ''
-- template: content-feature
-  block: feature-1
-  media_alignment: Right
-  media:
-    image: http://res.cloudinary.com/artist-project-group/v1616503451/apg1/APG_Logo_Dev_V11_3A_RGB_web_oncyhg.svg
-    alt_text: ''
-  headline: ''
-  slug: ''
-  content: ''
 
 ---
