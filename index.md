@@ -25,6 +25,13 @@ page_sections:
   logo: http://res.cloudinary.com/artist-project-group/v1616494694/apg1/APG_Logo_Dev_V11_3A_RGB_fj6dze.svg
 - template: navigation-header-w-button
   block: header-2
+  logo: http://res.cloudinary.com/artist-project-group/v1616501788/apg1/Supergood_Logo_Lila_RGB_mxexsc.svg
+  navigation: []
+  cta:
+    url: ''
+    button_text: ''
+- template: navigation-header-w-button
+  block: header-2
   logo: http://res.cloudinary.com/artist-project-group/v1616494694/apg1/APG_Logo_Dev_V11_3A_RGB_fj6dze.svg
   navigation:
   - link_text: SWAAAAAPPPP!
