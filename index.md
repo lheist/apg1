@@ -20,14 +20,14 @@ page_sections:
   cta:
     url: mailto:"info@artistprojectgroup.com"
     button_text: Contact us now!
-- template: simple-header
-  block: header-3
-  logo: http://res.cloudinary.com/artist-project-group/v1616494694/apg1/APG_Logo_Dev_V11_3A_RGB_fj6dze.svg
 - template: full-width-media-element
   block: media-1
   image: http://res.cloudinary.com/artist-project-group/v1616503451/apg1/APG_Logo_Dev_V11_3A_RGB_web_oncyhg.svg
   caption: 'This is an image that Lukas added. Looks like this works pretty well. '
   slug: lukas image
+- template: simple-header
+  block: header-3
+  logo: http://res.cloudinary.com/artist-project-group/v1616503451/apg1/APG_Logo_Dev_V11_3A_RGB_web_oncyhg.svg
 - template: full-width-media-element
   block: media-1
   image: http://res.cloudinary.com/artist-project-group/v1616503049/apg1/AAAA_Logo_web_bqkivv.svg
@@ -97,7 +97,7 @@ page_sections:
     Blocks and preview them as you go along.</p></li></ol>
 - template: simple-footer
   block: footer-1
-  content: Made with ❤︎ in Canada
+  content: <a href="" title="">Impressum</a>
 menu:
   main:
     weight: 2
