@@ -29,7 +29,7 @@ page_sections:
     image: http://res.cloudinary.com/artist-project-group/v1616503049/apg1/AAAA_Logo_web_bqkivv.svg
     alt_text: ''
   background_image: ''
-  headline: ''
+  headline: "<strong>WHAT IS</strong> happening here?"
   content: ''
   cta:
     enabled: false
