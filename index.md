@@ -23,27 +23,16 @@ page_sections:
 - template: simple-header
   block: header-3
   logo: http://res.cloudinary.com/artist-project-group/v1616494694/apg1/APG_Logo_Dev_V11_3A_RGB_fj6dze.svg
-- template: navigation-header-w-button
-  block: header-2
-  logo: http://res.cloudinary.com/artist-project-group/v1616501788/apg1/Supergood_Logo_Lila_RGB_mxexsc.svg
-  navigation: []
-  cta:
-    url: ''
-    button_text: ''
-- template: navigation-header-w-button
-  block: header-2
-  logo: http://res.cloudinary.com/artist-project-group/v1616494694/apg1/APG_Logo_Dev_V11_3A_RGB_fj6dze.svg
-  navigation:
-  - link_text: SWAAAAAPPPP!
-    link: "#swap"
-  cta:
-    url: ''
-    button_text: ''
 - template: full-width-media-element
   block: media-1
   image: http://res.cloudinary.com/artist-project-group/v1616494694/apg1/APG_Logo_Dev_V11_3A_RGB_fj6dze.svg
   caption: 'This is an image that Lukas added. Looks like this works pretty well. '
   slug: lukas image
+- template: full-width-media-element
+  block: media-1
+  image: http://res.cloudinary.com/artist-project-group/v1616501788/apg1/Supergood_Logo_Lila_RGB_mxexsc.svg
+  caption: Really wow, how supergood this logo still is
+  slug: "#supergood"
 - template: hero-banner-w-image
   block: hero-2
   slug: features
