@@ -104,7 +104,7 @@ page_sections:
 - template: 3-column-text
   block: three-column-1
   col_1:
-    headline: sfsdfds
+    headline: ''
     content: <a href="about.html" title="About">About</a>
     slug: ''
   col_2:
