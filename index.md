@@ -18,8 +18,8 @@ page_sections:
   - link: "#blocks"
     link_text: Blocks
   cta:
-    url: https://app.forestry.io/quick-start?repo=forestryio/ubuild-jekyll&provider=github&engine=jekyll
-    button_text: Import
+    url: mailto:info@artistprojectgroup.com
+    button_text: Contact us now!
 - template: simple-header
   block: header-3
   logo: http://res.cloudinary.com/artist-project-group/v1616494694/apg1/APG_Logo_Dev_V11_3A_RGB_fj6dze.svg
