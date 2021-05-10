@@ -4,8 +4,8 @@ image_1:
   image: http://res.cloudinary.com/artist-project-group/v1616345794/apg1/firewatch_1_b4r0mb.jpg
   caption: this image is the forst column proably
 image_2:
-  image: ''
-  caption: ''
+  image: http://res.cloudinary.com/artist-project-group/v1616345794/apg1/firewatch_3_avcpvp.jpg
+  caption: this is the second image
 
 ---
 # Firewatch 
