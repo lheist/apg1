@@ -810,16 +810,16 @@ body {
 }
 
 ::-moz-selection {
-	background: #ffedbc;
+	background: #e6fff0;
 	color: #333
 }
 
 ::-webkit-selection {
-	background: #ffedbc;
+	background: #e6fff0;
 	color: #333
 }
 
 ::selection {
-	background: #ffedbc;
+	background: #e6fff0;
 	color: #333
 }
