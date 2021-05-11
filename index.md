@@ -24,7 +24,7 @@ page_sections:
   headline: Artist Project Group<br>New Ways to think about art. New Processes
   content: <img src="http://res.cloudinary.com/artist-project-group/v1616503451/apg1/APG_Logo_Dev_V11_3A_RGB_web_oncyhg.svg">
   image:
-    image: ''
+    image: http://res.cloudinary.com/artist-project-group/v1616503451/apg1/APG_Logo_Dev_V11_3A_RGB_web_oncyhg.svg
     alt_text: ''
   cta:
     enabled: false
