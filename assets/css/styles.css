@@ -90,7 +90,8 @@ p {
 
 @media screen and (min-width:700px) {
 	.block {
-		padding: 6rem 4rem
+		/* PADDING FOR ALL BLOCKS LESS THAN 700PX HERE:
+		padding: 6rem 4rem*/
 	}
 }
 
