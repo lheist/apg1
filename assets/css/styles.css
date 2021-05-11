@@ -81,8 +81,9 @@ p {
 /* --------- BLOCKS --------- */
 
 .block {
+	/* PADDING FOR ALL BLOCKS HERE 
 	padding: 64px 32px;
-	padding: 4rem 2rem
+	padding: 4rem 2rem*/
 }
 
 /* --------- BLOCKS LESS THAN 700PX --------- */
