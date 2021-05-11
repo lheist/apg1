@@ -10,7 +10,7 @@ page_sections:
 - template: navigation-header
   block: header-1
   navigation:
-  - link: "#apg"
+  - link: "#aps"
     link_text: "#Artist Partner Service"
   logo: ''
 - template: navigation-header-w-button
