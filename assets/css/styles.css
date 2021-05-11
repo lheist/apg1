@@ -207,7 +207,10 @@ input.inverted::placeholder {
 	-ms-flex-align: center;
 	align-items: center;
 	padding: 16px 32px;
-	padding: 1rem 2rem
+	padding: 1rem 2rem;
+	/* Lukas */
+		position: fixed;
+		z-index: 999;
 }
 
 .block-header-1--logo img {
