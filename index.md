@@ -12,6 +12,12 @@ page_sections:
   navigation:
   - link: "#aps"
     link_text: "#Artist Partner Service"
+  - link: "#supergood"
+    link_text: "#Supergood"
+  - link: ''
+    link_text: ''
+  - link: ''
+    link_text: ''
   logo: ''
 - template: navigation-header-w-button
   block: header-2
