@@ -18,6 +18,18 @@ page_sections:
   cta:
     url: mailto:"info@artistprojectgroup.com"
     button_text: Contact us now!
+- template: hero-banner-w-image
+  block: hero-2
+  background_image: http://res.cloudinary.com/artist-project-group/v1616345794/apg1/firewatch_2_jzctfk.jpg
+  headline: Artist Project Group<br>New Ways to think about art. New Processes
+  content: <img src="http://res.cloudinary.com/artist-project-group/v1616503451/apg1/APG_Logo_Dev_V11_3A_RGB_web_oncyhg.svg">
+  image:
+    image: ''
+    alt_text: ''
+  cta:
+    enabled: false
+    url: ''
+    button_text: ''
 - template: full-width-media-element
   block: media-1
   image: http://res.cloudinary.com/artist-project-group/v1616345794/apg1/firewatch_1_b4r0mb.jpg
