@@ -3,6 +3,9 @@ layout: blocks
 title: APG
 date: 2021-03-23T00:00:00.000+01:00
 page_sections:
+- template: simple-header
+  block: header-3
+  logo: http://res.cloudinary.com/artist-project-group/v1620747201/apg1/APG_Logo_Dev_V12_3A_hlio76.svg
 - template: navigation-header
   block: header-1
   logo: http://res.cloudinary.com/artist-project-group/v1620747308/apg1/APG_Logo_Dev_V12_3A1_x1200_en9j2o.png
