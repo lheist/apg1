@@ -330,8 +330,8 @@ input.inverted::placeholder {
 }
 
 .block-header-3--logo img {
-	max-height: 24px;
-	max-height: 1.5rem
+	max-height: 400px;
+	max-height: 16rem
 }
 
 /* --------- .BLOCK HERO-1 --------- */
