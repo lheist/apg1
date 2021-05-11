@@ -232,7 +232,7 @@ input.inverted::placeholder {
 
 .block-header-1 .nav-item a {
 	text-decoration: none;
-	/*color: #009839*/
+	color: #000
 }
 
 .block-header-1 .nav-item a:hover {
