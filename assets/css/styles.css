@@ -204,7 +204,7 @@ input.inverted::placeholder {
 	display: -ms-flexbox;
 	display: flex;
 	-ms-flex-pack: justify;
-	justify-content: space-between;
+	justify-content: center;
 	-ms-flex-align: center;
 	align-items: center;
 	padding: 16px 32px;
@@ -213,8 +213,8 @@ input.inverted::placeholder {
 }
 
 .block-header-1--logo img {
-	/*max-height: 24px;
-	max-height: 1.5rem*/
+	max-height: 400px;
+	max-height: 16rem*/
 }
 
 .block-header-1 .nav-item {
@@ -222,8 +222,8 @@ input.inverted::placeholder {
 	list-style: none;
 	margin-right: 16px;
 	margin-right: 1rem;
-	/*font-size: 13.6px;
-	font-size: .85rem*/
+	font-size: 24px;
+	font-size: 1.5rem*/
 }
 
 .block-header-1 .nav-item.active a {
