@@ -5,7 +5,7 @@ date: 2021-03-23T00:00:00.000+01:00
 page_sections:
 - template: navigation-header
   block: header-1
-  logo: http://res.cloudinary.com/artist-project-group/v1620747201/apg1/APG_Logo_Dev_V12_3A_hlio76.svg
+  logo: http://res.cloudinary.com/artist-project-group/v1616347223/apg1/forestry-full_aepz1y.svg
   navigation: []
 - template: navigation-header
   block: header-1
