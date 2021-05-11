@@ -14,8 +14,8 @@ page_sections:
     link_text: "#Artist Partner Service"
   - link: "#supergood"
     link_text: "#Supergood"
-  - link: ''
-    link_text: ''
+  - link: "#aaaa"
+    link_text: "#AAAA"
   - link: ''
     link_text: ''
   logo: ''
