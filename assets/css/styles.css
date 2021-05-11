@@ -253,11 +253,11 @@ input.inverted::placeholder {
 /* Navigation Header with Button*/
 
 .block-header-2 {
-	/*display: -ms-flexbox;
+	display: -ms-flexbox;
 	display: flex;
 	-ms-flex-pack: justify;
-	justify-content: space-between;
-	-ms-flex-align: center;*/
+	justify-content: center;
+	-ms-flex-align: center;
 	align-items: center;
 	padding: 32px 32px;
 	padding: 2rem 2rem;
