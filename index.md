@@ -18,6 +18,10 @@ page_sections:
   cta:
     url: mailto:"info@artistprojectgroup.com"
     button_text: Contact us now!
+- template: navigation-header
+  block: header-1
+  logo: http://res.cloudinary.com/artist-project-group/v1616347223/apg1/forestry-full_aepz1y.svg
+  navigation: []
 - template: hero-banner-w-image
   block: hero-2
   background_image: http://res.cloudinary.com/artist-project-group/v1616345794/apg1/firewatch_2_jzctfk.jpg
