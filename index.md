@@ -8,10 +8,6 @@ page_sections:
   logo: http://res.cloudinary.com/artist-project-group/v1620747308/apg1/APG_Logo_Dev_V12_3A1_x1200_en9j2o.png
 - template: navigation-header
   block: header-1
-  logo: http://res.cloudinary.com/artist-project-group/v1620747308/apg1/APG_Logo_Dev_V12_3A1_x1200_en9j2o.png
-  navigation: []
-- template: navigation-header
-  block: header-1
   navigation:
   - link: "#aps"
     link_text: "#Artist Partner Service"
@@ -21,7 +17,7 @@ page_sections:
     link_text: "#AAAA"
   - link: "#about"
     link_text: "#About"
-  logo: ''
+  logo: http://res.cloudinary.com/artist-project-group/v1616347223/apg1/forestry-full_aepz1y.svg
 - template: hero-banner-w-image
   block: hero-2
   background_image: http://res.cloudinary.com/artist-project-group/v1616345794/apg1/firewatch_2_jzctfk.jpg
