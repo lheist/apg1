@@ -16,8 +16,8 @@ page_sections:
     link_text: "#Supergood"
   - link: "#aaaa"
     link_text: "#AAAA"
-  - link: ''
-    link_text: ''
+  - link: "#about"
+    link_text: "#About"
   logo: ''
 - template: navigation-header-w-button
   block: header-2
