@@ -281,8 +281,8 @@ input.inverted::placeholder {
 .block-header-2 .nav-item {
 	display: inline-block;
 	list-style: none;
-	margin-right: 16px;
-	margin-right: 1rem;
+	margin-right: 24px;
+	margin-right: 1.5rem;
 	font-size: 13.6px;
 	font-size: .85rem
 }
