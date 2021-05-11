@@ -1,8 +1,14 @@
+/* --------- DEFINITION OF HTML ELEMENTS HERE: --------- */
+/* --------- DEFINITION OF HTML ELEMENTS HERE: --------- */
+/* --------- DEFINITION OF HTML ELEMENTS HERE: --------- */
+
 * {
 	box-sizing: border-box;
 	margin: 0;
 	padding: 0
 }
+
+/* --------- H1 --------- */
 
 h1 {
 	font-size: 48px;
@@ -17,6 +23,8 @@ h1 span.light {
 	font-weight: 300
 }
 
+/* --------- H2 --------- */
+
 h2 {
 	font-size: 32px;
 	font-size: 2rem;
@@ -26,6 +34,8 @@ h2 {
 h2 span.light {
 	font-weight: 300
 }
+
+/* --------- H3 --------- */
 
 h3 {
 	font-weight: 700;
@@ -44,11 +54,15 @@ p {
 	color: #666
 }
 
+/* --------- H1 LESS THAN 700PX --------- */
+
 @media screen and (min-width:700px) {
 	h1 {
 		font-size: 3.5rem
 	}
 }
+
+/* --------- H1 LESS THAN 100PX --------- */
 
 @media screen and (min-width:1000px) {
 	h1 {
@@ -56,22 +70,32 @@ p {
 	}
 }
 
+/* --------- CONTAINERS --------- */
+
 .container {
 	width: 1200px;
 	max-width: 100%;
 	margin: 0 auto
 }
 
+/* --------- BLOCKS --------- */
+
 .block {
 	padding: 64px 32px;
 	padding: 4rem 2rem
 }
+
+/* --------- BLOCKS LESS THAN 700PX --------- */
 
 @media screen and (min-width:700px) {
 	.block {
 		padding: 6rem 4rem
 	}
 }
+
+/* --------- .BUTTONS --------- */
+/* --------- .BUTTONS --------- */
+/* --------- .BUTTONS --------- */
 
 .button {
 	outline: none;
@@ -117,6 +141,10 @@ p {
 	padding: .5rem 1rem
 }
 
+/* --------- INPUT --------- */
+/* --------- INPUT --------- */
+/* --------- INPUT --------- */
+
 input {
 	border: none;
 	border-bottom: 1px solid #000;
@@ -158,6 +186,16 @@ input.inverted:-ms-input-placeholder {
 input.inverted::placeholder {
 	color: #ddd
 }
+
+/* --------- UBUILD .BLOCKS --------- */
+/* --------- UBUILD .BLOCKS --------- */
+/* --------- UBUILD .BLOCKS --------- */
+/* --------- UBUILD .BLOCKS --------- */
+/* --------- UBUILD .BLOCKS --------- */
+
+/* --------- .BLOCK-HEADER-1 --------- */
+/* --------- .BLOCK-HEADER-1 --------- */
+/* --------- .BLOCK-HEADER-1 --------- */
 
 .block-header-1 {
 	display: -ms-flexbox;
@@ -204,6 +242,10 @@ input.inverted::placeholder {
 .block-header-1 .nav-item:last-of-type {
 	margin: 0
 }
+
+/* --------- .BLOCK HEADER-2 --------- */
+/* --------- .BLOCK HEADER-2 --------- */
+/* --------- .BLOCK HEADER-2 --------- */
 
 .block-header-2 {
 	display: -ms-flexbox;
@@ -263,6 +305,10 @@ input.inverted::placeholder {
 	margin-left: 2rem
 }
 
+/* --------- .BLOCK-HEADER-3 --------- */
+/* --------- .BLOCK-HEADER-3 --------- */
+/* --------- .BLOCK-HEADER-3 --------- */
+
 .block-header-3 {
 	display: -ms-flexbox;
 	display: flex;
@@ -279,6 +325,10 @@ input.inverted::placeholder {
 	max-height: 24px;
 	max-height: 1.5rem
 }
+
+/* --------- .BLOCK HERO-1 --------- */
+/* --------- .BLOCK HERO-1 --------- */
+/* --------- .BLOCK HERO-1 --------- */
 
 .block-hero-1 {
 	--bg: #009839;
@@ -302,6 +352,10 @@ input.inverted::placeholder {
 		min-height: 500px
 	}
 }
+
+/* --------- .BLOCK HERO-2 --------- */
+/* --------- .BLOCK HERO-2 --------- */
+/* --------- .BLOCK HERO-2 --------- */
 
 .block-hero-2 {
 	--bg: #009839;
@@ -387,6 +441,10 @@ input.inverted::placeholder {
 	}
 }
 
+/* --------- .BLOCK ONE COLUMN --------- */
+/* --------- .BLOCK ONE COLUMN --------- */
+/* --------- .BLOCK ONE COLUMN --------- */
+
 .block-one-column-1 .columns {
 	display: -ms-flexbox;
 	display: flex;
@@ -408,6 +466,10 @@ input.inverted::placeholder {
 	margin-bottom: 16px;
 	margin-bottom: 1rem
 }
+
+/* --------- .BLOCK TWO COLUMN --------- */
+/* --------- .BLOCK TWO COLUMN --------- */
+/* --------- .BLOCK TWO COLUMN --------- */
 
 .block-two-column-1 .columns {
 	display: -ms-flexbox;
@@ -438,6 +500,10 @@ input.inverted::placeholder {
 	}
 }
 
+/* --------- .BLOCK THREE COLUMN --------- */
+/* --------- .BLOCK THREE COLUMN --------- */
+/* --------- .BLOCK THREE COLUMN --------- */
+
 .block-three-column-1 .columns {
 	display: -ms-flexbox;
 	display: flex;
@@ -466,6 +532,10 @@ input.inverted::placeholder {
 		flex: 0 0 calc(33.33% - 4rem)
 	}
 }
+
+/* --------- .BLOCK CTA BAR --------- */
+/* --------- .BLOCK CTA BAR --------- */
+/* --------- .BLOCK CTA BAR --------- */
 
 .block-cta-bar {
 	padding: 32px;
@@ -550,12 +620,20 @@ input.inverted::placeholder {
 	}
 }
 
+/* --------- .BLOCK FOOTER 1 --------- */
+/* --------- .BLOCK FOOTER 1 --------- */
+/* --------- .BLOCK FOOTER 1 --------- */
+
 .block-footer-1 {
 	font-size: 12.8px;
 	font-size: .8rem;
 	color: #666;
 	text-align: center
 }
+
+/* --------- .BLOCK FOOTER 2 --------- */
+/* --------- .BLOCK FOOTER 2 --------- */
+/* --------- .BLOCK FOOTER 2 --------- */
 
 .block-footer-2 .columns {
 	display: -ms-flexbox;
@@ -585,6 +663,10 @@ input.inverted::placeholder {
 		flex: 0 0 calc(25% - 4rem)
 	}
 }
+
+/* --------- .BLOCK TEXT 1 --------- */
+/* --------- .BLOCK TEXT 1 --------- */
+/* --------- .BLOCK TEXT 1 --------- */
 
 .block-text-1 .columns {
 	display: -ms-flexbox;
@@ -648,6 +730,10 @@ input.inverted::placeholder {
 	}
 }
 
+/* --------- .BLOCK FEATURE 1 --------- */
+/* --------- .BLOCK FEATURE 1 --------- */
+/* --------- .BLOCK FEATURE 1 --------- */
+
 .block-feature-1 .columns {
 	display: -ms-flexbox;
 	display: flex;
@@ -694,6 +780,10 @@ input.inverted::placeholder {
 		flex: 0 0 calc(60% - 2rem)
 	}
 }
+
+/* --------- DEFINITIONS OF .BLOCK FEATURE 2 STARTS HERE: --------- */
+/* --------- DEFINITIONS OF .BLOCK FEATURE 2 STARTS HERE: --------- */
+/* --------- DEFINITIONS OF .BLOCK FEATURE 2 STARTS HERE: --------- */
 
 .block-feature-2 .columns {
 	display: -ms-flexbox;
@@ -751,6 +841,11 @@ input.inverted::placeholder {
 	}
 }
 
+/* --------- DEFINITIONS OF .BLOCK MEDIA 1 STARTS HERE: --------- */
+/* --------- DEFINITIONS OF .BLOCK MEDIA 1 STARTS HERE: --------- */
+/* --------- DEFINITIONS OF .BLOCK MEDIA 1 STARTS HERE: --------- */
+
+
 .block-media-1 img {
 	max-width: 100%
 }
@@ -763,6 +858,10 @@ input.inverted::placeholder {
 	margin-top: 8px;
 	margin-top: .5rem
 }
+
+/* --------- DEFINITIONS OF .BLOCK MEDIA 2 STARTS HERE: --------- */
+/* --------- DEFINITIONS OF .BLOCK MEDIA 2 STARTS HERE: --------- */
+/* --------- DEFINITIONS OF .BLOCK MEDIA 2 STARTS HERE: --------- */
 
 .block-media-2 .columns {
 	display: -ms-flexbox;
@@ -804,10 +903,18 @@ input.inverted::placeholder {
 	}
 }
 
+/* --------- BODY --------- */
+/* --------- BODY --------- */
+/* --------- BODY --------- */
+
 body {
 	font-family: Helvetica Neue, -apple-system, BlinkMacSystemFont, Arial, sans-serif;
 	font-size: 16px
 }
+
+/* --------- SELECTION --------- */
+/* --------- SELECTION --------- */
+/* --------- SELECTION --------- */
 
 ::-moz-selection {
 	background: #e6fff0;
