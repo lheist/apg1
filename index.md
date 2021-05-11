@@ -37,7 +37,7 @@ page_sections:
   slug: ''
 - template: full-width-media-element
   block: media-1
-  image: http://res.cloudinary.com/artist-project-group/v1616503451/apg1/APG_Logo_Dev_V11_3A_RGB_web_oncyhg.svg
+  image: http://res.cloudinary.com/artist-project-group/v1620747201/apg1/APG_Logo_Dev_V12_3A_hlio76.svg
   caption: 'This is an image that Lukas added. Looks like this works pretty well. '
   slug: lukas image
 - template: full-width-media-element
