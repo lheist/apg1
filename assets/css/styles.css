@@ -51,7 +51,7 @@ p {
 
 p {
 	font-weight: 400;
-	color: #666
+	/*color: #666*/
 }
 
 /* --------- H1 LESS THAN 700PX --------- */
@@ -73,7 +73,7 @@ p {
 /* --------- CONTAINERS --------- */
 
 .container {
-	width: 1200px;
+	width: 100%;
 	max-width: 100%;
 	margin: 0 auto
 }
@@ -781,9 +781,9 @@ input.inverted::placeholder {
 	}
 }
 
-/* --------- DEFINITIONS OF .BLOCK FEATURE 2 STARTS HERE: --------- */
-/* --------- DEFINITIONS OF .BLOCK FEATURE 2 STARTS HERE: --------- */
-/* --------- DEFINITIONS OF .BLOCK FEATURE 2 STARTS HERE: --------- */
+/* --------- .BLOCK FEATURE 2 --------- */
+/* --------- .BLOCK FEATURE 2 --------- */
+/* --------- .BLOCK FEATURE 2 --------- */
 
 .block-feature-2 .columns {
 	display: -ms-flexbox;
@@ -841,9 +841,10 @@ input.inverted::placeholder {
 	}
 }
 
-/* --------- DEFINITIONS OF .BLOCK MEDIA 1 STARTS HERE: --------- */
-/* --------- DEFINITIONS OF .BLOCK MEDIA 1 STARTS HERE: --------- */
-/* --------- DEFINITIONS OF .BLOCK MEDIA 1 STARTS HERE: --------- */
+/* --------- .BLOCK MEDIA 1 --------- */
+/* --------- .BLOCK MEDIA 1 --------- */
+/* --------- .BLOCK MEDIA 1 --------- */
+/* MEDIA CAPTIONS OF BLOCK FULL WIDTH MEDIA IS DEFINED HERE*/
 
 
 .block-media-1 img {
@@ -851,17 +852,17 @@ input.inverted::placeholder {
 }
 
 .block-media-1 figcaption {
-	font-size: 11.2px;
+	/*font-size: 11.2px;
 	font-size: .7rem;
-	color: #666;
+	color: #666;*/
 	text-align: center;
 	margin-top: 8px;
 	margin-top: .5rem
 }
 
-/* --------- DEFINITIONS OF .BLOCK MEDIA 2 STARTS HERE: --------- */
-/* --------- DEFINITIONS OF .BLOCK MEDIA 2 STARTS HERE: --------- */
-/* --------- DEFINITIONS OF .BLOCK MEDIA 2 STARTS HERE: --------- */
+/* --------- .BLOCK MEDIA 2 --------- */
+/* --------- .BLOCK MEDIA 2 --------- */
+/* --------- .BLOCK MEDIA 2 --------- */
 
 .block-media-2 .columns {
 	display: -ms-flexbox;
