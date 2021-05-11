@@ -3,6 +3,16 @@ layout: blocks
 title: APG
 date: 2021-03-23T00:00:00.000+01:00
 page_sections:
+- template: navigation-header
+  block: header-1
+  logo: ''
+  navigation: []
+- template: navigation-header
+  block: header-1
+  navigation:
+  - link: "#apg"
+    link_text: "#Artist Partner Service"
+  logo: ''
 - template: navigation-header-w-button
   block: header-2
   logo: http://res.cloudinary.com/artist-project-group/v1620747308/apg1/APG_Logo_Dev_V12_3A1_x1200_en9j2o.png
