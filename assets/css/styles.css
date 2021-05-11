@@ -51,7 +51,7 @@ p {
 
 p {
 	font-weight: 400;
-	color: #666
+	/*color: #666*/
 }
 
 /* --------- H1 LESS THAN 700PX --------- */
@@ -781,9 +781,9 @@ input.inverted::placeholder {
 	}
 }
 
-/* --------- DEFINITIONS OF .BLOCK FEATURE 2 STARTS HERE: --------- */
-/* --------- DEFINITIONS OF .BLOCK FEATURE 2 STARTS HERE: --------- */
-/* --------- DEFINITIONS OF .BLOCK FEATURE 2 STARTS HERE: --------- */
+/* --------- .BLOCK FEATURE 2 --------- */
+/* --------- .BLOCK FEATURE 2 --------- */
+/* --------- .BLOCK FEATURE 2 --------- */
 
 .block-feature-2 .columns {
 	display: -ms-flexbox;
@@ -844,6 +844,7 @@ input.inverted::placeholder {
 /* --------- .BLOCK MEDIA 1 --------- */
 /* --------- .BLOCK MEDIA 1 --------- */
 /* --------- .BLOCK MEDIA 1 --------- */
+/* MEDIA CAPTIONS OF BLOCK FULL WIDTH MEDIA IS DEFINED HERE*/
 
 
 .block-media-1 img {
