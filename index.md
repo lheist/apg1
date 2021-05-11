@@ -20,6 +20,11 @@ page_sections:
     button_text: Contact us now!
 - template: full-width-media-element
   block: media-1
+  image: http://res.cloudinary.com/artist-project-group/v1616345794/apg1/firewatch_1_b4r0mb.jpg
+  caption: IS THIS IMAGE NOW FULL WIDTH!?
+  slug: ''
+- template: full-width-media-element
+  block: media-1
   image: http://res.cloudinary.com/artist-project-group/v1616503451/apg1/APG_Logo_Dev_V11_3A_RGB_web_oncyhg.svg
   caption: 'This is an image that Lukas added. Looks like this works pretty well. '
   slug: lukas image
