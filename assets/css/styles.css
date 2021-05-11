@@ -253,14 +253,14 @@ input.inverted::placeholder {
 /* Navigation Header with Button*/
 
 .block-header-2 {
-	display: -ms-flexbox;
+	/*display: -ms-flexbox;
 	display: flex;
 	-ms-flex-pack: justify;
 	justify-content: space-between;
 	-ms-flex-align: center;
 	align-items: center;
 	padding: 16px 32px;
-	padding: 1rem 2rem
+	padding: 1rem 2rem*/
 	/* Lukas
 		position: fixed;
 		z-index: 999;*/
