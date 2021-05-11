@@ -28,8 +28,8 @@ page_sections:
   headline: ''
   content: ''
   image:
-    image: http://res.cloudinary.com/artist-project-group/v1616503451/apg1/APG_Logo_Dev_V11_3A_RGB_web_oncyhg.svg
-    alt_text: ''
+    image: http://res.cloudinary.com/artist-project-group/v1620747201/apg1/APG_Logo_Dev_V12_3A_hlio76.svg
+    alt_text: APG Logo
   cta:
     enabled: false
     url: ''
