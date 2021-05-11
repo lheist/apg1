@@ -5,7 +5,7 @@ date: 2021-03-23T00:00:00.000+01:00
 page_sections:
 - template: navigation-header-w-button
   block: header-2
-  logo: http://res.cloudinary.com/artist-project-group/v1616347223/apg1/forestry-full_aepz1y.svg
+  logo: http://res.cloudinary.com/artist-project-group/v1620735169/apg1/FOR3_dpskec.svg
   navigation:
   - link: "#aps"
     link_text: "#Artist Partner Service"
