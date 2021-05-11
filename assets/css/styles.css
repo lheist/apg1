@@ -912,6 +912,7 @@ input.inverted::placeholder {
 
 body {
 	font-family: Helvetica Neue, -apple-system, BlinkMacSystemFont, Arial, sans-serif;
+	cursor: pointer;
 	font-size: 16px
 }
 
