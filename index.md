@@ -37,8 +37,8 @@ page_sections:
   block: feature-1
   media_alignment: Left
   slug: supergood2
-  headline: <strong>Supergood<span class="light"> </span></strong><span class="light">is
-    pure tropical existentialism!</span>
+  headline: Supergood<strong><span class="light"> </span></strong><span class="light">is
+    pure tropical existentialism!<br></span>
   content: Quickly assemble and create custom sites with 16 design blocks for seven
     different sections.
   media:
