@@ -81,15 +81,17 @@ p {
 /* --------- BLOCKS --------- */
 
 .block {
+	/* PADDING FOR ALL BLOCKS HERE 
 	padding: 64px 32px;
-	padding: 4rem 2rem
+	padding: 4rem 2rem*/
 }
 
 /* --------- BLOCKS LESS THAN 700PX --------- */
 
 @media screen and (min-width:700px) {
 	.block {
-		padding: 6rem 4rem
+		/* PADDING FOR ALL BLOCKS LESS THAN 700PX HERE:
+		padding: 6rem 4rem*/
 	}
 }
 
