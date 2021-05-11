@@ -19,21 +19,6 @@ page_sections:
   - link: "#about"
     link_text: "#About"
   logo: ''
-- template: navigation-header-w-button
-  block: header-2
-  logo: http://res.cloudinary.com/artist-project-group/v1620747308/apg1/APG_Logo_Dev_V12_3A1_x1200_en9j2o.png
-  navigation:
-  - link: "#aps"
-    link_text: "#Artist Partner Service"
-  - link: "#supergood"
-    link_text: "#Supergood"
-  - link: "#aaaa"
-    link_text: "#AAAA"
-  - link: "#about"
-    link_text: "#About"
-  cta:
-    url: mailto:"info@artistprojectgroup.com"
-    button_text: Contact us now!
 - template: hero-banner-w-image
   block: hero-2
   background_image: http://res.cloudinary.com/artist-project-group/v1616345794/apg1/firewatch_2_jzctfk.jpg
