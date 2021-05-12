@@ -15,7 +15,7 @@ page_sections:
     link_text: "#Supergood"
   - link: "#aaaa"
     link_text: "#AAAA"
-  - link: "#about"
+  - link: "/Impressum"
     link_text: "#About"
   logo: ''
 - template: full-width-media-element
