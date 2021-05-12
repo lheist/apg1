@@ -9,14 +9,14 @@ page_sections:
 - template: navigation-header
   block: header-1
   navigation:
+  - link: "#aaaa"
+    link_text: "#AAAA"
   - link: "#aps"
     link_text: "#Artist Partner Service"
   - link: "#supergood"
     link_text: "#Supergood"
-  - link: "#aaaa"
-    link_text: "#AAAA"
   - link: "/impressum"
-    link_text: "#About"
+    link_text: About
   logo: ''
 - template: full-width-media-element
   block: media-1
