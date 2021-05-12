@@ -341,7 +341,7 @@ input.inverted::placeholder {
 /* --------- .BLOCK HERO-1 --------- */
 
 .block-hero-1 {
-	--bg: #009839;
+	--bg: #000;
 	--text: #fff;
 	display: -ms-flexbox;
 	display: flex;
