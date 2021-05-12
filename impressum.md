@@ -13,7 +13,7 @@ page_sections:
   - link: "/#aaaa"
     link_text: "#AAAA"
   - link: "/#aps"
-    link_text: "#Artist Parner Service"
+    link_text: "#Artist Partner Service"
   - link: "/#supergood"
     link_text: "#Supergood"
   - link_text: About
