@@ -368,7 +368,7 @@ input.inverted::placeholder {
 /* --------- .BLOCK HERO-2 --------- */
 
 .block-hero-2 {
-	--bg: #009839;
+	--bg: #000;
 	--text: #fff;
 	-ms-flex-direction: column;
 	flex-direction: column;
@@ -550,7 +550,7 @@ input.inverted::placeholder {
 .block-cta-bar {
 	padding: 32px;
 	padding: 2rem;
-	background: #009839;
+	background: #000;
 	color: #fff
 }
 
