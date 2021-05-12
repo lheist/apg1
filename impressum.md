@@ -12,7 +12,7 @@ page_sections:
   navigation:
   - link: "/#aaaa"
     link_text: "#AAAA"
-  - link: "/index.html"
+  - link: "/#aps"
     link_text: "#Artist Parner Service"
   - link: "/index.html"
     link_text: "#Supergood"
