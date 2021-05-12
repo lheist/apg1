@@ -18,18 +18,6 @@ page_sections:
   - link: "#about"
     link_text: "#About"
   logo: ''
-- template: hero-banner-w-image
-  block: hero-2
-  background_image: http://res.cloudinary.com/artist-project-group/v1616345794/apg1/firewatch_2_jzctfk.jpg
-  headline: ''
-  content: ''
-  image:
-    image: http://res.cloudinary.com/artist-project-group/v1620747201/apg1/APG_Logo_Dev_V12_3A_hlio76.svg
-    alt_text: APG Logo
-  cta:
-    enabled: false
-    url: ''
-    button_text: ''
 - template: full-width-media-element
   block: media-1
   image: http://res.cloudinary.com/artist-project-group/v1616345794/apg1/firewatch_1_b4r0mb.jpg
