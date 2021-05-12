@@ -58,10 +58,6 @@ page_sections:
     Project Group<br>Verein für Kritik und Produktion<br>ZVR-Number: 253007094<br><a
     href="mailto:info@artistprojectgroup.com" title="mail info">info@artistprojectgroup.com</a><br>Wien,
     Österreich<br>© 2021 Artist Project Group'
-- template: signup-bar
-  block: cta-bar
-  email_recipient: info@artistprojectgroup.com
-  content: ''
 menu:
   main:
     weight: 2
