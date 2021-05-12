@@ -28,19 +28,5 @@ page_sections:
     title="mail info">info@artistprojectgroup.com</a><br><br>© 2021 <br>Artist Project
     Group'
   slug: ''
-- template: 3-column-text
-  block: three-column-1
-  col_1:
-    content: <a href="about.html" title="About">About</a>
-    headline: ''
-    slug: ''
-  col_2:
-    headline: ''
-    slug: ''
-    content: <a href="impressum.html" title="Impressum">Impressum</a>
-  col_3:
-    headline: ''
-    slug: ''
-    content: <a href="privacy.html" title="Privacy">Privacy</a>
 
 ---
