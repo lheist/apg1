@@ -10,12 +10,12 @@ page_sections:
   block: header-1
   logo: ''
   navigation:
-  - link: "/index.html"
-    link_text: "#Supergood"
-  - link: "/index.html"
-    link_text: "#Artist Parner Service"
   - link: "/index"
     link_text: "#AAAA"
+  - link: "/index.html"
+    link_text: "#Artist Parner Service"
+  - link: "/index.html"
+    link_text: "#Supergood"
   - link_text: About
     link: "/impressum"
 - template: 1-column-text
