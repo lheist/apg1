@@ -24,8 +24,8 @@ page_sections:
     image: http://res.cloudinary.com/artist-project-group/v1616501788/apg1/Supergood_Logo_Lila_RGB_mxexsc.svg
     caption: Supergood, est. 2015
   image_2:
-    image: ''
-    caption: ''
+    image: http://res.cloudinary.com/artist-project-group/v1620735100/apg1/FOR2_qrvzhn.svg
+    caption: We have nothing to do with this
 - template: full-width-media-element
   block: media-1
   image: http://res.cloudinary.com/artist-project-group/v1616345794/apg1/firewatch_1_b4r0mb.jpg
