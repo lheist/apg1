@@ -3,6 +3,9 @@ layout: blocks
 title: Impressum
 date: 2021-03-23 00:00:00 +0100
 page_sections:
+- template: simple-header
+  block: header-3
+  logo: http://res.cloudinary.com/artist-project-group/v1620747308/apg1/APG_Logo_Dev_V12_3A1_x1200_en9j2o.png
 - template: navigation-header
   block: header-1
   logo: http://res.cloudinary.com/artist-project-group/v1616507021/apg1/Artboard_1_1000x250_ibvkui.png
@@ -28,11 +31,5 @@ page_sections:
     headline: ''
     slug: ''
     content: <a href="privacy.html" title="Privacy">Privacy</a>
-- template: 4-column-footer
-  block: footer-2
-  col_2: sdfsdaf
-  col_3: asdfasf
-  col_4: adsfasdf
-  image: http://res.cloudinary.com/artist-project-group/v1616507021/apg1/Artboard_1_1000x250_ibvkui.png
 
 ---
