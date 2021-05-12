@@ -550,8 +550,8 @@ input.inverted::placeholder {
 .block-cta-bar {
 	padding: 32px;
 	padding: 2rem;
-	background: #000;
-	color: #fff
+	background: #fff;
+	color: #000
 }
 
 .block-cta-bar .columns {
@@ -580,7 +580,7 @@ input.inverted::placeholder {
 .block-cta-bar .text p {
 	font-size: 20px;
 	font-size: 1.25rem;
-	color: #fff
+	color: #000
 }
 
 .block-cta-bar .cta {
