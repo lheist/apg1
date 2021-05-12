@@ -10,7 +10,7 @@ page_sections:
   block: header-1
   logo: ''
   navigation:
-  - link: "/#AAAA"
+  - link: "/#aaaa"
     link_text: "#AAAA"
   - link: "/index.html"
     link_text: "#Artist Parner Service"
