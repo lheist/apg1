@@ -14,7 +14,7 @@ page_sections:
     link_text: "#AAAA"
   - link: "/#aps"
     link_text: "#Artist Parner Service"
-  - link: "/index.html"
+  - link: "/#supergood"
     link_text: "#Supergood"
   - link_text: About
     link: "/impressum"
