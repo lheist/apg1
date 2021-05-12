@@ -18,6 +18,14 @@ page_sections:
   - link: "/impressum"
     link_text: About
   logo: ''
+- template: 2-column-media-element
+  block: media-2
+  image_1:
+    image: http://res.cloudinary.com/artist-project-group/v1616501788/apg1/Supergood_Logo_Lila_RGB_mxexsc.svg
+    caption: Supergood, est. 2015
+  image_2:
+    image: ''
+    caption: ''
 - template: full-width-media-element
   block: media-1
   image: http://res.cloudinary.com/artist-project-group/v1616345794/apg1/firewatch_1_b4r0mb.jpg
