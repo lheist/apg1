@@ -10,12 +10,14 @@ page_sections:
   block: header-1
   logo: ''
   navigation:
-  - link: ''
-    link_text: ''
-  - link: ''
-    link_text: ''
-  - link: ''
-    link_text: ''
+  - link: "/index.html"
+    link_text: "#Supergood"
+  - link: "/index.html"
+    link_text: "#Artist Parner Service"
+  - link: "/index"
+    link_text: "#AAAA"
+  - link_text: About
+    link: "/impressum"
 - template: 1-column-text
   block: one-column-1
   headline: IMPRESSUM
