@@ -10,4 +10,4 @@ image_2:
 ---
 # Firewatch 
 
-Getting back into computer games is more difficult than I thought. I was never really very nerdy about it and a lot has changed since I last played any computer game. 
+Getting back into computer games is more difficult than I thought. I was never really very nerdy about it and a lot has changed since I last played any computer game.
