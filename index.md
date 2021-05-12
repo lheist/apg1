@@ -18,19 +18,11 @@ page_sections:
   - link: "/impressum"
     link_text: About
   logo: ''
-- template: 2-column-media-element
-  block: media-2
-  image_1:
-    image: http://res.cloudinary.com/artist-project-group/v1616501788/apg1/Supergood_Logo_Lila_RGB_mxexsc.svg
-    caption: Supergood, est. 2015
-  image_2:
-    image: http://res.cloudinary.com/artist-project-group/v1620735100/apg1/FOR2_qrvzhn.svg
-    caption: We have nothing to do with this
 - template: full-width-media-element
   block: media-1
-  image: http://res.cloudinary.com/artist-project-group/v1616345794/apg1/firewatch_1_b4r0mb.jpg
+  image: http://res.cloudinary.com/artist-project-group/v1620821996/apg1/aaaa/web-4468_yplee9.jpg
   caption: IS THIS IMAGE NOW FULL WIDTH!?
-  slug: ''
+  slug: "#aaaa"
 - template: full-width-media-element
   block: media-1
   image: http://res.cloudinary.com/artist-project-group/v1620747201/apg1/APG_Logo_Dev_V12_3A_hlio76.svg
@@ -41,11 +33,6 @@ page_sections:
   image: http://res.cloudinary.com/artist-project-group/v1616503049/apg1/AAAA_Logo_web_bqkivv.svg
   caption: What Tel Aviv inspires us to do!
   slug: "#aaaa"
-- template: full-width-media-element
-  block: media-1
-  image: http://res.cloudinary.com/artist-project-group/v1616501788/apg1/Supergood_Logo_Lila_RGB_mxexsc.svg
-  caption: Really wow, how supergood this logo still is
-  slug: "#supergood"
 - template: content-feature
   block: feature-1
   media_alignment: Left
