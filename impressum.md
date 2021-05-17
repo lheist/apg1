@@ -1,7 +1,7 @@
 ---
 layout: blocks
-title: Impressum
-date: 2021-03-23 00:00:00 +0100
+title: About
+date: 2021-03-23T00:00:00.000+01:00
 page_sections:
 - template: simple-header
   block: header-3
@@ -20,7 +20,7 @@ page_sections:
     link: "/impressum"
 - template: 1-column-text
   block: one-column-1
-  headline: IMPRESSUM
+  headline: About
   content: '<strong>Artist Project Group<br></strong>Verein für Kritik und Produktion<br>ZVR-Number:
     253007094<br>Wien, Österreich<br><br>Artist Project Group is not a brewery nor
     a second hand clothing store. We sometimes work in museums and theatres. <br>We
