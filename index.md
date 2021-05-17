@@ -6,6 +6,18 @@ page_sections:
 - template: simple-header
   block: header-3
   logo: http://res.cloudinary.com/artist-project-group/v1620747308/apg1/APG_Logo_Dev_V12_3A1_x1200_en9j2o.png
+- template: hero-banner-w-image
+  block: hero-2
+  background_image: http://res.cloudinary.com/artist-project-group/v1621244519/apg1/049_SG_Prem_DSC01109_krtwys.jpg
+  image:
+    image: ''
+    alt_text: ''
+  headline: ''
+  content: ''
+  cta:
+    enabled: false
+    url: ''
+    button_text: ''
 - template: navigation-header
   block: header-1
   navigation:
@@ -18,18 +30,6 @@ page_sections:
   - link: "/about"
     link_text: About
   logo: ''
-- template: hero-banner-w-image
-  block: hero-2
-  background_image: http://res.cloudinary.com/artist-project-group/v1621244519/apg1/049_SG_Prem_DSC01109_krtwys.jpg
-  image:
-    image: http://res.cloudinary.com/artist-project-group/v1616501788/apg1/Supergood_Logo_Lila_RGB_mxexsc.svg
-    alt_text: Supergood Logo
-  headline: Supergood
-  content: An artist company that....
-  cta:
-    enabled: false
-    url: ''
-    button_text: ''
 - template: full-width-media-element
   block: media-1
   image: http://res.cloudinary.com/artist-project-group/v1620821996/apg1/aaaa/web-4468_yplee9.jpg
@@ -56,15 +56,6 @@ page_sections:
   media:
     image: http://res.cloudinary.com/artist-project-group/v1616501788/apg1/Supergood_Logo_Lila_RGB_mxexsc.svg
     alt_text: Supergood Logo Lila
-- template: 1-column-text
-  block: one-column-1
-  slug: about
-  headline: About
-  content: 'Artist Project Group is not a brewery nor a second hand clothing store.
-    We sometimes work in museums and theatres. <br>We are based in Vienna, Austria.<br><br><strong>Impressum</strong><br>Artist
-    Project Group<br>Verein für Kritik und Produktion<br>ZVR-Number: 253007094<br><a
-    href="mailto:info@artistprojectgroup.com" title="mail info">info@artistprojectgroup.com</a><br>Wien,
-    Österreich<br>© 2021 Artist Project Group'
 menu:
   main:
     weight: 2
