@@ -18,6 +18,18 @@ page_sections:
   - link: "/about"
     link_text: About
   logo: ''
+- template: hero-banner-w-image
+  block: hero-2
+  background_image: http://res.cloudinary.com/artist-project-group/v1621244519/apg1/049_SG_Prem_DSC01109_krtwys.jpg
+  image:
+    image: http://res.cloudinary.com/artist-project-group/v1616501788/apg1/Supergood_Logo_Lila_RGB_mxexsc.svg
+    alt_text: Supergood Logo
+  headline: ''
+  content: ''
+  cta:
+    enabled: false
+    url: ''
+    button_text: ''
 - template: full-width-media-element
   block: media-1
   image: http://res.cloudinary.com/artist-project-group/v1620821996/apg1/aaaa/web-4468_yplee9.jpg
