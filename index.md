@@ -121,7 +121,7 @@ page_sections:
   block: feature-1
   media_alignment: Left
   media:
-    image: http://res.cloudinary.com/artist-project-group/v1621267064/apg1/Supergood_logo_on_bg_wmsxbt.png
+    image: http://res.cloudinary.com/artist-project-group/v1621267247/apg1/Supergood_logo_on_bg_2_pdi3iq.png
     alt_text: Supergood Logo on transparent background
   headline: ''
   slug: ''
