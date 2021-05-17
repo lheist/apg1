@@ -24,8 +24,8 @@ page_sections:
   image:
     image: http://res.cloudinary.com/artist-project-group/v1616501788/apg1/Supergood_Logo_Lila_RGB_mxexsc.svg
     alt_text: Supergood Logo
-  headline: ''
-  content: ''
+  headline: Supergood
+  content: An artist company that....
   cta:
     enabled: false
     url: ''
