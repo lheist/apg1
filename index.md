@@ -117,6 +117,15 @@ page_sections:
     estate developments<br>– to create a narrative backdrop for a performance taking
     cues from publicity stunts and activist interventions.<strong>Aalborg, Denmark,
     Autumn 2019, supported by BKA</strong>"
+- template: content-feature
+  block: feature-1
+  media_alignment: Right
+  media:
+    image: http://res.cloudinary.com/artist-project-group/v1621267064/apg1/Supergood_logo_on_bg_wmsxbt.png
+    alt_text: Supergood Logo on transparent background
+  headline: ''
+  slug: ''
+  content: ''
 menu:
   main:
     weight: 2
