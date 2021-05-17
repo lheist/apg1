@@ -15,7 +15,7 @@ page_sections:
     link_text: "#Artist Partner Service"
   - link: "#supergood"
     link_text: "#Supergood"
-  - link: "/impressum"
+  - link: "/about"
     link_text: About
   logo: ''
 - template: full-width-media-element
