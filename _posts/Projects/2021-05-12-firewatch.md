@@ -8,6 +8,8 @@ image_2:
   caption: this is the second image
 
 ---
-# Firewatch 
+# Firewatch
 
-Getting back into computer games is more difficult than I thought. I was never really very nerdy about it and a lot has changed since I last played any computer game. 
+Getting back into computer games is more difficult than I thought. I was never really very nerdy about it and a lot has changed since I last played any computer game.
+
+![](http://res.cloudinary.com/artist-project-group/v1616345794/apg1/firewatch_3_avcpvp.jpg)
