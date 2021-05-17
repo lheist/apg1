@@ -119,13 +119,16 @@ page_sections:
     Autumn 2019, supported by BKA</strong>"
 - template: content-feature
   block: feature-1
-  media_alignment: Right
+  media_alignment: Left
   media:
     image: http://res.cloudinary.com/artist-project-group/v1621267064/apg1/Supergood_logo_on_bg_wmsxbt.png
     alt_text: Supergood Logo on transparent background
   headline: ''
   slug: ''
-  content: ''
+  content: Zwischen November und Dezember 2015 betreibt Supergood ein- en Concept
+    Store in der Sechshauserstrasse, 1150 Wien. Als Projekt im Ambiguösen Feld zwischen
+    Produkt und Performance werden dort radikale Body Performances, wohlschmeckendes
+    Flugfrucht- sorbet und ein anspruchsvolles Kunst- und Politikdiskursprogramm präsentiert.
 menu:
   main:
     weight: 2
