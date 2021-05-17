@@ -30,6 +30,15 @@ page_sections:
     enabled: false
     url: ''
     button_text: ''
+- template: content-feature
+  block: feature-1
+  media_alignment: Right
+  slug: aaaa
+  media:
+    image: http://res.cloudinary.com/artist-project-group/v1616503049/apg1/AAAA_Logo_web_bqkivv.svg
+    alt_text: Logo AAAA
+  headline: "<strong>AAAA</strong>"
+  content: ''
 - template: hero-banner-w-image
   block: hero-2
   background_image: http://res.cloudinary.com/artist-project-group/v1621247701/apg1/artistpartnerservice_locationpost_uqof3l.jpg
@@ -54,6 +63,9 @@ page_sections:
     enabled: false
     url: ''
     button_text: ''
+- template: simple-footer
+  block: footer-1
+  content: 2021 - Artist Project Group
 menu:
   main:
     weight: 2
