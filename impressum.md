@@ -1,6 +1,6 @@
 ---
 layout: blocks
-title: About
+title: About2
 date: 2021-03-23T00:00:00.000+01:00
 page_sections:
 - template: simple-header
