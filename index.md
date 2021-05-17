@@ -35,7 +35,7 @@ page_sections:
   media_alignment: Right
   slug: aaaa
   media:
-    image: http://res.cloudinary.com/artist-project-group/v1616503049/apg1/AAAA_Logo_web_bqkivv.svg
+    image: http://res.cloudinary.com/artist-project-group/v1621248584/apg1/trippyhf_zhbpjw.gif
     alt_text: Logo AAAA
   headline: "<strong>AAAA</strong>"
   content: ''
