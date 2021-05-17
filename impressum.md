@@ -17,7 +17,7 @@ page_sections:
   - link: "/#supergood"
     link_text: "#Supergood"
   - link_text: About
-    link: "/impressum"
+    link: "/about"
 - template: 1-column-text
   block: one-column-1
   headline: ''
