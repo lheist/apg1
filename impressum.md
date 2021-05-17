@@ -20,7 +20,7 @@ page_sections:
     link: "/impressum"
 - template: 1-column-text
   block: one-column-1
-  headline: About
+  headline: ''
   content: '<strong>Artist Project Group<br></strong>Verein für Kritik und Produktion<br>ZVR-Number:
     253007094<br>Wien, Österreich<br><br>Artist Project Group is not a brewery nor
     a second hand clothing store. We sometimes work in museums and theatres. <br>We
