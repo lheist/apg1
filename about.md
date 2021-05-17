@@ -28,6 +28,5 @@ page_sections:
     title="mail info">info@artistprojectgroup.com</a><br><br>© 2021 <br>Artist Project
     Group'
   slug: ''
-published: false
 
 ---
