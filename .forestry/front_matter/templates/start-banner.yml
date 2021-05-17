@@ -1,0 +1,14 @@
+---
+label: Start Banner
+hide_body: true
+fields:
+- name: background_image
+  type: file
+  config:
+    maxSize: 64
+  label: Background Image
+- name: logo
+  type: file
+  config:
+    maxSize: 64
+  label: Logo
