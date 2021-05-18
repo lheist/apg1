@@ -379,14 +379,9 @@ input.inverted::placeholder {
 	background-color: var(--bg);
 	color: var(--text);
 	background-repeat: no-repeat;
-	background-size: auto 100%;
+	background-size: 100% 100%;
 	background-position: 100%
 }
-
-/*.block-hero-2 .h1 {
-  background-color: black;
-  color: white;
-}*/
 
 .block-hero-2,
 .block-hero-2 .columns {
