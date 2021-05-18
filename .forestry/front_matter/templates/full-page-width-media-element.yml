@@ -1,4 +1,16 @@
 ---
 label: full-page-width-media-element
 hide_body: true
-fields: []
+fields:
+- name: block
+  type: text
+  config:
+    required: false
+  label: block
+  hidden: true
+  default: media-5
+- name: slug
+  type: text
+  config:
+    required: false
+  label: slug
