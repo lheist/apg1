@@ -73,7 +73,7 @@ p {
 /* --------- CONTAINERS --------- */
 
 .container {
-	width: 1200px;
+	/*width: 1200px;*/
 	max-width: 100%;
 	margin: 0 auto
 }
@@ -855,10 +855,11 @@ input.inverted::placeholder {
 /* --------- .BLOCK MEDIA 1 --------- */
 /* --------- .BLOCK MEDIA 1 --------- */
 /* --------- .BLOCK MEDIA 1 --------- */
-/* MEDIA CAPTIONS OF BLOCK FULL WIDTH MEDIA IS DEFINED HERE*/
+/* MEDIA ELEMENT (IMAGE) 'FULL WIDTH MEDIA ELEMENT'*/
 
 
 .block-media-1 img {
+	width: 1200px;
 	max-width: 100%
 }
 
@@ -874,6 +875,7 @@ input.inverted::placeholder {
 /* --------- .BLOCK MEDIA 2 --------- */
 /* --------- .BLOCK MEDIA 2 --------- */
 /* --------- .BLOCK MEDIA 2 --------- */
+/* TWO COLUMN MEDIA ELEMENT*/
 
 .block-media-2 .columns {
 	display: -ms-flexbox;
