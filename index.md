@@ -30,6 +30,18 @@ page_sections:
     enabled: false
     url: ''
     button_text: ''
+- template: hero-banner-w-image
+  block: hero-2
+  background_image: http://res.cloudinary.com/artist-project-group/v1621267820/apg1/AAAA_NF__4238_rx5hfv.jpg
+  image:
+    image: ''
+    alt_text: ''
+  headline: ''
+  content: ''
+  cta:
+    enabled: false
+    url: ''
+    button_text: ''
 - template: content-feature
   block: feature-1
   media_alignment: Right
