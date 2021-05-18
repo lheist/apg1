@@ -430,17 +430,27 @@ input.inverted::placeholder {
 }
 
 .block-hero-2 .column.media img {
-	width: 50%
+	width:75%
 }
 
-@media screen and (min-width:2000px) {
+/* FOR SCREENS BIGGER THAN 700PX :-) */
+@media screen and (min-width:700px) {
 	.block-hero-2 .column.text {
-		-ms-flex: 0 0 45%;
+		/*-ms-flex: 0 0 45%;
 		flex: 0 0 45%;
-		text-align: left
+		text-align: left*/
+		-ms-flex: 0 0 100%;
+		flex: 0 0 100%;
+	
+		background-color: white;
+  		color: black;
+	
+		text-align: center
+		
+
 	}
 	.block-hero-2 .column.media {
-		-ms-flex: 0 0 55%;
+		/*-ms-flex: 0 0 55%;
 		flex: 0 0 55%;
 		display: -ms-flexbox;
 		display: flex;
@@ -448,10 +458,22 @@ input.inverted::placeholder {
 		justify-content: center;
 		-ms-flex-align: center;
 		align-items: center;
-		margin-top: 0
+		margin-top: 0*/
+		-ms-flex: 0 0 100%;
+		flex: 0 0 100%;
+		display: -ms-flexbox;
+		display: flex;
+		-ms-flex-pack: center;
+		justify-content: center;
+		-ms-flex-align: center;
+		align-items: center;
+		margin-top: 96px;
+		margin-top: 6rem
 	}
 	.block-hero-2 .column.media img {
-		width: 45vw;
+		/*width: 45vw;
+		max-width: 520px*/
+		width:75%;
 		max-width: 520px
 	}
 }
