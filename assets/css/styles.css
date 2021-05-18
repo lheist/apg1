@@ -369,7 +369,7 @@ input.inverted::placeholder {
 /* Hero Banner */
 
 .block-hero-2 {
-	--bg: #000;
+	--bg: #fff;
 	--text: #fff;
 	-ms-flex-direction: column;
 	flex-direction: column;
@@ -379,8 +379,9 @@ input.inverted::placeholder {
 	background-color: var(--bg);
 	color: var(--text);
 	background-repeat: no-repeat;
-	background-size: 100% auto;
-	background-position: 100%
+	/*background-size: 100% auto;*/
+	background-size: contain;
+	background-position: center center
 }
 
 .block-hero-2,
@@ -448,8 +449,6 @@ input.inverted::placeholder {
   		color: black;
 	
 		text-align: center
-		
-
 	}
 	.block-hero-2 .column.media {
 		/*-ms-flex: 0 0 55%;
@@ -460,7 +459,8 @@ input.inverted::placeholder {
 		justify-content: center;
 		-ms-flex-align: center;
 		align-items: center;
-		margin-top: 0*/
+		margin-top: 0
+		*/
 		-ms-flex: 0 0 100%;
 		flex: 0 0 100%;
 		display: -ms-flexbox;
@@ -476,7 +476,7 @@ input.inverted::placeholder {
 		/*width: 45vw;
 		max-width: 520px*/
 		width:75%;
-		max-width: 520px
+		max-width: 600px
 	}
 }
 
