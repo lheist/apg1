@@ -18,6 +18,8 @@ page_sections:
     link_text: "#Supergood"
   - link_text: About
     link: "/about"
+  - link: "/startpage2"
+    link_text: START
 - template: 1-column-text
   block: one-column-1
   headline: ''
