@@ -379,6 +379,7 @@ input.inverted::placeholder {
 	color: var(--text);
 	background-repeat: no-repeat;
 	background-size: auto 100%;
+	background-color: black;
 	background-position: 100%
 }
 
@@ -912,6 +913,25 @@ input.inverted::placeholder {
 		flex: 0 0 calc(50% - 4rem);
 		margin: 2rem
 	}
+}
+
+/* --------- .BLOCK MEDIA 3 --------- */
+/* --------- .BLOCK MEDIA 3 --------- */
+/* --------- .BLOCK MEDIA 3 --------- */
+/* TEST OF OUR OWN TEMPLATE */
+
+
+.block-media-3 img {
+	max-width: 100%
+}
+
+.block-media-3 figcaption {
+	/*font-size: 11.2px;
+	font-size: .7rem;
+	color: #666;*/
+	text-align: center;
+	margin-top: 8px;
+	margin-top: .5rem
 }
 
 /* --------- BODY --------- */
