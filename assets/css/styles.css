@@ -82,8 +82,8 @@ p {
 
 .block {
 	/* PADDING FOR ALL BLOCKS HERE */
-	padding: 0px 32px;
-	padding: 0rem 2rem
+	padding: 32px 0px;
+	padding: 2rem 0rem
 	padding-bottom: 32px;
 }
 
@@ -379,8 +379,9 @@ input.inverted::placeholder {
 	background-color: var(--bg);
 	color: var(--text);
 	background-repeat: no-repeat;
-	background-size: auto 100%;
-	background-color: black;
+	background-size: 100%;
+	/*background-size: auto 100%;*/
+	background-color: #00f;
 	background-position: 100%
 }
 
