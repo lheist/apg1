@@ -8,7 +8,7 @@ fields:
     required: false
   label: block
   hidden: true
-  default: media-5
+  default: media-3
 - name: slug
   type: text
   config:
