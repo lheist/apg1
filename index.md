@@ -18,6 +18,18 @@ page_sections:
   - link: "/about"
     link_text: About
   logo: ''
+- template: hero-banner-w-image
+  block: hero-2
+  background_image: http://res.cloudinary.com/artist-project-group/v1621247701/apg1/artistpartnerservice_locationpost_uqof3l.jpg
+  image:
+    image: ''
+    alt_text: ''
+  headline: ''
+  content: ''
+  cta:
+    enabled: false
+    url: ''
+    button_text: ''
 - template: content-feature
   block: feature-1
   media_alignment: Right
@@ -83,18 +95,6 @@ page_sections:
     Autumn 2019, supported by BKA</strong>"
 - template: hero-banner-w-image
   block: hero-2
-  background_image: http://res.cloudinary.com/artist-project-group/v1621247701/apg1/artistpartnerservice_locationpost_uqof3l.jpg
-  image:
-    image: ''
-    alt_text: ''
-  headline: ''
-  content: ''
-  cta:
-    enabled: false
-    url: ''
-    button_text: ''
-- template: hero-banner-w-image
-  block: hero-2
   background_image: http://res.cloudinary.com/artist-project-group/v1621244519/apg1/049_SG_Prem_DSC01109_krtwys.jpg
   image:
     image: ''
@@ -124,7 +124,7 @@ page_sections:
   image: http://res.cloudinary.com/artist-project-group/v1621267820/apg1/AAAA_web-4025_ys6oja.jpg
 - template: hero-banner-w-image
   block: hero-2
-  background_image: http://res.cloudinary.com/artist-project-group/v1621267820/apg1/AAAA_NF__4238_rx5hfv.jpg
+  background_image: http://res.cloudinary.com/artist-project-group/v1621247408/apg1/AAAA_web-4238_x1200_co5b0k.jpg
   image:
     image: ''
     alt_text: ''
