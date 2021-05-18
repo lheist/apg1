@@ -379,7 +379,7 @@ input.inverted::placeholder {
 	background-color: var(--bg);
 	color: var(--text);
 	background-repeat: no-repeat;
-	background-size: auto 100%;
+	background-size: 100% auto;
 	background-position: 100%
 }
 
@@ -434,6 +434,8 @@ input.inverted::placeholder {
 }
 
 /* FOR SCREENS BIGGER THAN 700PX :-) */
+/* Original Code in the comments*/
+
 @media screen and (min-width:700px) {
 	.block-hero-2 .column.text {
 		/*-ms-flex: 0 0 45%;
