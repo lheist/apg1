@@ -1,6 +1,7 @@
 ---
 label: full-page-width-media-element
 hide_body: true
+display_field: caption
 fields:
 - name: block
   type: text
