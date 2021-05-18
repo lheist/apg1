@@ -24,8 +24,8 @@ page_sections:
   image:
     image: ''
     alt_text: ''
-  headline: gdfgdsfgdfg
-  content: 45656u57k576i56k5k
+  headline: "<em>AAAA</em><br><em>Aalborg Anti-Artwashing Agreement</em><br>"
+  content: ''
   cta:
     enabled: false
     url: ''
