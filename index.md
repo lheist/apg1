@@ -30,30 +30,6 @@ page_sections:
     enabled: false
     url: ''
     button_text: ''
-- template: hero-banner-w-image
-  block: hero-2
-  background_image: http://res.cloudinary.com/artist-project-group/v1621247701/apg1/artistpartnerservice_locationpost_uqof3l.jpg
-  image:
-    image: ''
-    alt_text: ''
-  headline: ''
-  content: ''
-  cta:
-    enabled: false
-    url: ''
-    button_text: ''
-- template: hero-banner-w-image
-  block: hero-2
-  background_image: http://res.cloudinary.com/artist-project-group/v1621244519/apg1/049_SG_Prem_DSC01109_krtwys.jpg
-  image:
-    image: ''
-    alt_text: ''
-  headline: ''
-  content: ''
-  cta:
-    enabled: false
-    url: ''
-    button_text: ''
 - template: content-feature
   block: feature-1
   media_alignment: Right
@@ -117,6 +93,30 @@ page_sections:
     estate developments<br>– to create a narrative backdrop for a performance taking
     cues from publicity stunts and activist interventions.<strong>Aalborg, Denmark,
     Autumn 2019, supported by BKA</strong>"
+- template: hero-banner-w-image
+  block: hero-2
+  background_image: http://res.cloudinary.com/artist-project-group/v1621247701/apg1/artistpartnerservice_locationpost_uqof3l.jpg
+  image:
+    image: ''
+    alt_text: ''
+  headline: ''
+  content: ''
+  cta:
+    enabled: false
+    url: ''
+    button_text: ''
+- template: hero-banner-w-image
+  block: hero-2
+  background_image: http://res.cloudinary.com/artist-project-group/v1621244519/apg1/049_SG_Prem_DSC01109_krtwys.jpg
+  image:
+    image: ''
+    alt_text: ''
+  headline: ''
+  content: ''
+  cta:
+    enabled: false
+    url: ''
+    button_text: ''
 - template: content-feature
   block: feature-1
   media_alignment: Left
