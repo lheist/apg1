@@ -24,8 +24,8 @@ page_sections:
   image:
     image: ''
     alt_text: ''
-  headline: ''
-  content: ''
+  headline: gdfgdsfgdfg
+  content: 45656u57k576i56k5k
   cta:
     enabled: false
     url: ''
