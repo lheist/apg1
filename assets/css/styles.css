@@ -380,12 +380,13 @@ input.inverted::placeholder {
 	color: var(--text);
 	background-repeat: no-repeat;
 	background-size: auto 100%;
-h1 {
-  background-color: black;
-  color: white;
-}
 	background-position: 100%
 }
+
+/*.block-hero-2 .h1 {
+  background-color: black;
+  color: white;
+}*/
 
 .block-hero-2,
 .block-hero-2 .columns {
@@ -405,6 +406,10 @@ h1 {
 .block-hero-2 .column.text {
 	-ms-flex: 0 0 100%;
 	flex: 0 0 100%;
+	
+	background-color: black;
+  	color: white;
+	
 	text-align: center
 }
 
