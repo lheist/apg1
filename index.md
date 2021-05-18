@@ -129,6 +129,11 @@ page_sections:
     Store in der Sechshauserstrasse, 1150 Wien. Als Projekt im Ambiguösen Feld zwischen
     Produkt und Performance werden dort radikale Body Performances, wohlschmeckendes
     Flugfrucht- sorbet und ein anspruchsvolles Kunst- und Politikdiskursprogramm präsentiert.
+- template: full-page-width-media-element
+  block: media-3
+  caption: Template test
+  slug: temp
+  image: http://res.cloudinary.com/artist-project-group/v1621267820/apg1/AAAA_web-4025_ys6oja.jpg
 menu:
   main:
     weight: 2
