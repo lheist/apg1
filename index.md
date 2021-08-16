@@ -9,6 +9,8 @@ page_sections:
 - template: navigation-header
   block: header-1
   navigation:
+  - link: "#"
+    link_text: test
   - link: "#aaaa"
     link_text: "#AAAA"
   - link: "#aps"
