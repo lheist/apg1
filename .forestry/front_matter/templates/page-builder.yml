@@ -34,6 +34,7 @@ fields:
   - full-page-width-media-element
 pages:
 - 404.md
+- b-test.md
 - impressum.md
 - index.md
 - startpage2.md
