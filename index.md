@@ -9,7 +9,7 @@ page_sections:
 - template: navigation-header
   block: header-1
   navigation:
-  - link: "#link"
+  - link: https://drive.google.com/file/d/1ajeVrblRd4wjs4zGZ0pUOLfOCkgQf1FZ/view?usp=sharing
     link_text: Projects
   - link: "/about"
     link_text: About
