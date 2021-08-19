@@ -48,15 +48,11 @@ page_sections:
     enabled: false
     url: ''
     button_text: ''
-- template: content-feature
-  block: feature-1
-  media_alignment: Right
-  media:
-    image: http://res.cloudinary.com/artist-project-group/v1620747201/apg1/APG_Logo_Dev_V12_3A_hlio76.svg
-    alt_text: Logo Artist Project Group
+- template: 1-column-text
+  block: one-column-1
+  content: <img src="http://res.cloudinary.com/artist-project-group/v1620747201/apg1/APG_Logo_Dev_V12_3A_hlio76.svg">
   headline: ''
   slug: ''
-  content: ''
 - template: 1-column-text
   block: one-column-1
   slug: About
