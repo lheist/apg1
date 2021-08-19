@@ -9,12 +9,8 @@ page_sections:
 - template: navigation-header
   block: header-1
   navigation:
-  - link: "#aaaa"
-    link_text: "#AAAA"
-  - link: "#aps"
-    link_text: "#Artist Partner Service"
-  - link: "#supergood"
-    link_text: "#Supergood"
+  - link: "#link"
+    link_text: Projects
   - link: "/about"
     link_text: About
   logo: ''
@@ -54,6 +50,15 @@ page_sections:
     enabled: false
     url: ''
     button_text: ''
+- template: content-feature
+  block: feature-1
+  media_alignment: Right
+  headline: ''
+  slug: ''
+  content: ''
+  media:
+    image: ''
+    alt_text: ''
 menu:
   main:
     weight: 2
