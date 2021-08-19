@@ -10,12 +10,8 @@ page_sections:
   block: header-1
   logo: ''
   navigation:
-  - link: "/#aaaa"
-    link_text: "#AAAA"
-  - link: "/#aps"
-    link_text: "#Artist Partner Service"
-  - link: "/#supergood"
-    link_text: "#Supergood"
+  - link: https://drive.google.com/file/d/1ajeVrblRd4wjs4zGZ0pUOLfOCkgQf1FZ/view?usp=sharing
+    link_text: Projects
   - link_text: About
     link: "/about"
 - template: 1-column-text
