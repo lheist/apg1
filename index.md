@@ -58,6 +58,11 @@ page_sections:
     title="mail info">info@artistprojectgroup.com</a><br><br>© 2021 <br>Artist Project
     Group'
   headline: ''
+- template: full-width-media-element
+  block: media-1
+  image: http://res.cloudinary.com/artist-project-group/v1620747201/apg1/APG_Logo_Dev_V12_3A_hlio76.svg
+  slug: ''
+  caption: ''
 menu:
   main:
     weight: 2
