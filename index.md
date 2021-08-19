@@ -10,8 +10,8 @@ page_sections:
   caption: ''
 - template: 1-column-text
   block: one-column-1
-  content: <a href="https://drive.google.com/file/d/1ajeVrblRd4wjs4zGZ0pUOLfOCkgQf1FZ/view?usp=sharing"
-    title="">Projects</a>
+  content: "<a href=\"https://drive.google.com/file/d/1ajeVrblRd4wjs4zGZ0pUOLfOCkgQf1FZ/view?usp=sharing\"
+    title=\"\">\U0001F4C4 PDF DOWNLOAD \U0001F4C4</a>"
   headline: ''
   slug: ''
 - template: 1-column-text
