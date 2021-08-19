@@ -17,10 +17,10 @@ page_sections:
 - template: 1-column-text
   block: one-column-1
   slug: About
-  content: '<strong><br><br>Artist Project Group<br></strong>Verein für Kritik und
-    Produktion<br>ZVR-Number: 253007094<br>Wien, Österreich<br><br>Artist Project
-    Group is not a brewery nor a second hand clothing store. We sometimes work in
-    museums and theatres. <br>We are based in Vienna, Austria.<br><br><a href="mailto:info@artistprojectgroup.com"
+  content: '<strong>Artist Project Group<br></strong>Verein für Kritik und Produktion<br>ZVR-Number:
+    253007094<br>Wien, Österreich<br><br>Artist Project Group is not a brewery nor
+    a second hand clothing store. We sometimes work in museums and theatres. <br>We
+    are based in Vienna, Austria.<br><br><a href="mailto:info@artistprojectgroup.com"
     title="mail info">info@artistprojectgroup.com</a><br><br>© 2021 <br>Artist Project
     Group'
   headline: ''
