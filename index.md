@@ -12,12 +12,6 @@ page_sections:
     title="">Projects</a>
   headline: ''
   slug: ''
-- template: navigation-header
-  block: header-1
-  navigation:
-  - link: https://drive.google.com/file/d/1ajeVrblRd4wjs4zGZ0pUOLfOCkgQf1FZ/view?usp=sharing
-    link_text: Projects
-  logo: ''
 - template: hero-banner-w-image
   block: hero-2
   background_image: http://res.cloudinary.com/artist-project-group/v1621247408/apg1/AAAA_web-4238_x1200_co5b0k.jpg
