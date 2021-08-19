@@ -11,8 +11,6 @@ page_sections:
   navigation:
   - link: https://drive.google.com/file/d/1ajeVrblRd4wjs4zGZ0pUOLfOCkgQf1FZ/view?usp=sharing
     link_text: Projects
-  - link: "/about"
-    link_text: About
   logo: ''
 - template: hero-banner-w-image
   block: hero-2
