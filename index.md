@@ -6,6 +6,12 @@ page_sections:
 - template: simple-header
   block: header-3
   logo: http://res.cloudinary.com/artist-project-group/v1620747308/apg1/APG_Logo_Dev_V12_3A1_x1200_en9j2o.png
+- template: 1-column-text
+  block: one-column-1
+  content: <a href="https://drive.google.com/file/d/1ajeVrblRd4wjs4zGZ0pUOLfOCkgQf1FZ/view?usp=sharing"
+    title="">Projects</a>
+  headline: ''
+  slug: ''
 - template: navigation-header
   block: header-1
   navigation:
@@ -48,15 +54,6 @@ page_sections:
     enabled: false
     url: ''
     button_text: ''
-- template: content-feature
-  block: feature-1
-  media_alignment: Right
-  headline: ''
-  slug: ''
-  content: ''
-  media:
-    image: ''
-    alt_text: ''
 - template: 1-column-text
   block: one-column-1
   slug: About
