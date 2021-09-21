@@ -116,6 +116,5 @@ page_sections:
     style="text-decoration: underline;"><br></span>From a master’s in Public Policy
     to an impact-driven consulting career'
   slug: workshop
-published: false
 
 ---
