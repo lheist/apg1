@@ -33,5 +33,6 @@ fields:
   - 4-column-footer
 pages:
 - 404.md
+- artists-have-the-answers.md
 - impressum.md
 - index.md
