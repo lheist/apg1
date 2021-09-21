@@ -77,7 +77,7 @@ page_sections:
     and legacy of capitalism, through exhibitions, research, publication, art, and
     a variety of public programming.<br><br><a href="https://artistprojectgroup.com"
     title="https://artistprojectgroup.com">https://artistprojectgroup.com</a><br><a
-    href="https://andreasteves.com" title="https://andreasteves.com">https://andreasteves.com</a><br><br>References:Andrea
+    href="https://andreasteves.com" title="https://andreasteves.com">https://andreasteves.com</a><br><br><strong>References</strong><br>Andrea
     Fraser &amp; Günther Draxler: Services (1994) <br><a href="http://artarchives.net/artarchives/fraserservices.html"
     title="http://artarchives.net/artarchives/fraserservices.html"><span style="text-decoration:
     underline;">http://artarchives.net/artarchives/fraserservices.html</span></a><br>How
@@ -115,7 +115,7 @@ page_sections:
     style="text-decoration: underline;">https://www.mckinsey.com/careers/meet-our-people/careers-blog/ben</span></a><span
     style="text-decoration: underline;"><br></span>From a master’s in Public Policy
     to an impact-driven consulting career'
-  slug: ''
+  slug: workshop
 published: false
 
 ---
